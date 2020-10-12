@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research Projects"
-    url: /research/
   - title: "Data Science Projects"
     url: /data-wrangling/
+  - title: "Research Projects"
+    url: /research/
   - title: "CV"
     url: /cv/
   # - title: "About"
