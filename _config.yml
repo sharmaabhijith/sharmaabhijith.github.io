@@ -12,7 +12,11 @@ locale                   : "en-US"
 title                    : "Abhijith Sharma"
 title_separator          : "-"
 name                     : "Abhijith Sharma"
-description              : "Project Portfolio"
+description              : "Post Graduate Diploma"
+                            <br>
+                            "Data Science"
+                            <br>
+                            "IIIT Bangalore"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
