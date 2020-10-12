@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Boom-Bikes_Rental"
 date: 2020-03-20
 tags: [regression, data science, messy data]
