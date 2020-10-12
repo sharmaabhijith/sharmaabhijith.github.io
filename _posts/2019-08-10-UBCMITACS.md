@@ -5,12 +5,15 @@ tags: [Control, data science, Electronics]
 excerpt: "Control, data science, Electronics"
 mathjax: "true"
 ---
-<div class="image123">
-    <center>
-    <img src="/images/windturbine2.jpeg" height="400" width="200" style="float:left">
-    <img src="/images/wt.jpeg"/ height="400" width="200">
-    </center>
+<div class="row">
+  <div class="column">
+    <img src="\images\windturbine2.jpeg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="\images\wt.jpeg" alt="Mountains" style="width:100%">
+  </div>
 </div>
+
 This project is a part of MITACS summer research project and has been assigned to me by Dr. Ryozo Nagamune at University of British Columbia,
 one of the top ranked universities in the world. The aim of this project is to develop a model and feedback control of small scale wind turbine, which
 includes research to reduce the cost of offshore wind power by using advanced control theory to maximize turbine energy capture and increase the lifespan
