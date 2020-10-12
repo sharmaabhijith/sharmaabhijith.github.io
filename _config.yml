@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Abhijith Sharma"
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IIIT Bangalore
-                      College of Engineering Pune"
+  bio              : "IIIT Bangalore"
+                     "College of Engineering Pune"
   location         : "Bangalore"
   email            : "sharmaabhijith1@gmail.com"
   uri              :
