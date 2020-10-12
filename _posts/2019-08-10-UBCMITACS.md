@@ -5,13 +5,8 @@ tags: [Control, data science, Electronics]
 excerpt: "Control, data science, Electronics"
 mathjax: "true"
 ---
-<div class="row">
-  <div class="column">
-    <img src="\images\windturbine2.jpeg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="\images\wt.jpeg" style="width:100%">
-  </div>
+<div class="image123">
+    <img src="/images/windturbine2.jpeg" height="500" width="400" style="float:left">
 </div>
 
 This project is a part of MITACS summer research project and has been assigned to me by Dr. Ryozo Nagamune at University of British Columbia,
