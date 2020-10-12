@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /CV/
+permalink: /cv/
 title: "CV"
 author_profile: true
 ---
