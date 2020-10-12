@@ -7,8 +7,8 @@ mathjax: "true"
 ---
 <div class="image123">
     <center>
-    <img src="/images/windturbine2.jpeg" height="400" width="300" style="float:left">
-    <img src="/images/wt.jpeg"/ height="400" width="300">
+    <img src="/images/windturbine2.jpeg" height="400" width="200" style="float:left">
+    <img src="/images/wt.jpeg"/ height="400" width="200">
     </center>
 </div>
 This project is a part of MITACS summer research project and has been assigned to me by Dr. Ryozo Nagamune at University of British Columbia,
