@@ -7,10 +7,10 @@ mathjax: "true"
 ---
 <div class="row">
   <div class="column">
-    <img src="\images\windturbine2.jpeg" alt="Snow" style="width:100%">
+    <img src="\images\windturbine2.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="\images\wt.jpeg" alt="Mountains" style="width:100%">
+    <img src="\images\wt.jpeg" style="width:100%">
   </div>
 </div>
 
