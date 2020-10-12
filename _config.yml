@@ -88,17 +88,17 @@ author:
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Post Graduate Diploma"
                       <br>
-                      "Data Science
+                      "Data Science"
                       <br>
                       "IIIT Bangalore"
                       <br><br>
-                      "Bachelor  in Technology
+                      "Bachelor  in Technology"
                       <br>
-                      "Instrumentation and Control
+                      "Instrumentation and Control"
                       <br>
                       "College of Engneering Pune"
   location         : "Bangalore"
-  email            :
+  email            : sharmaabhijith1@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
