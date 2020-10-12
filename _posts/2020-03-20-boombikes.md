@@ -3,7 +3,7 @@ title: "Boom-Bikes_Rental"
 date: 2020-03-20
 tags: [regression, data science, messy data]
 header:
-  image: "/images/boombike1.jpg"
+  image: "/images/boom2.jpg"
 excerpt: "Regression, Data Science, Messy Data"
 mathjax: "true"
 ---
