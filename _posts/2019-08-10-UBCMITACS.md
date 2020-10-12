@@ -6,8 +6,8 @@ excerpt: "Control, data science, Electronics"
 mathjax: "true"
 ---
 <div class="image123">
-    <img src="/images/windturbine.jpeg" height="200" width="200" style="float:left">
-    <img src="/images/wt.jpeg"/ height="200" width="200">
+    <img src="/images/windturbine2.jpeg" height="500" width="400" style="float:left">
+    <img src="/images/wt.jpeg"/ height="500" width="400">
 </div>
 This project is a part of MITACS summer research project and has been assigned to me by Dr. Ryozo Nagamune at University of British Columbia,
 one of the top ranked universities in the world. The aim of this project is to develop a model and feedback control of small scale wind turbine, which
