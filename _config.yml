@@ -12,11 +12,7 @@ locale                   : "en-US"
 title                    : "Abhijith Sharma"
 title_separator          : "-"
 name                     : "Abhijith Sharma"
-description              : "Post Graduate Diploma
-                            <br>
-                            Data Science
-                            <br>
-                            IIIT Bangalore"
+description              : "Project Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +86,17 @@ analytics:
 author:
   name             : "Abhijith Sharma"
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project Portfolio"
+  bio              : "Post Graduate Diploma"
+                      <br>
+                      "Data Science
+                      <br>
+                      "IIIT Bangalore"
+                      <br><br>
+                      "Bachelor  in Technology
+                      <br>
+                      "Instrumentation and Control
+                      <br>
+                      "College of Engneering Pune"
   location         : "Bangalore"
   email            :
   uri              :
