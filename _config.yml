@@ -86,17 +86,7 @@ analytics:
 author:
   name             : "Abhijith Sharma"
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Post Graduate Diploma"
-                      <br>
-                      "Data Science"
-                      <br>
-                      "IIIT Bangalore"
-                      <br><br>
-                      "Bachelor  in Technology"
-                      <br>
-                      "Instrumentation and Control"
-                      <br>
-                      "College of Engneering Pune"
+  bio              : "Project Portfolio"
   location         : "Bangalore"
   email            : sharmaabhijith1@gmail.com
   uri              :
