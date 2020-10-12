@@ -1,10 +1,7 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /Projects/
 title: "Projects"
-author_profile: true
-permalink: /CV/
-title: "CV"
 author_profile: true
 ---
 
