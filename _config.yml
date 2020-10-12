@@ -86,8 +86,7 @@ analytics:
 author:
   name             : "Abhijith Sharma"
   avatar           : "/images/dp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project Portfolio
-                     
+  bio              : "Project Portfolio"
   location         : "Bangalore"
   email            : "sharmaabhijith1@gmail.com"
   uri              :
