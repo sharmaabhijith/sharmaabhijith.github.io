@@ -1,7 +1,7 @@
 ---
 title: "Boom-Bikes_Rental"
 date: 2020-03-20
-tags: [regression, data science, messy data]
+tags: [data]
 header:
   image: "/images/bike2.jpg"
 excerpt: "Regression, Data Science, Messy Data"
