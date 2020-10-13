@@ -1,4 +1,5 @@
 ---
+layout: research
 title: "Hardware Implementation of Model  Predictive Controller"
 date: 2020-05-10
 tags: [Control, Optimisation]
