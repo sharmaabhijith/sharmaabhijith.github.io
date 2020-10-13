@@ -16,6 +16,6 @@ author_profile: true
       {% endif %}
 
     {% endunless %}
-   {% include archive-single.html %}
+   {% include default.html %}
   {% endfor %}
 </ul>
