@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Data Driven Modelling and Feedback Control of Wind Turbine"
 date: 2019-08-10
 tags: [Control, data science, Electronics]
