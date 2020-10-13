@@ -2,7 +2,7 @@
 layout: default
 title: "Data Driven Modelling and Feedback Control of Wind Turbine"
 date: 2019-08-10
-tags: [Control, Electronics]
+tags: [control, Electronics]
 excerpt: "Control, data science, Electronics"
 mathjax: "true"
 ---
