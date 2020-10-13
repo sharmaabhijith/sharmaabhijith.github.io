@@ -1,5 +1,5 @@
 ---
-layout: tags
+layout: category
 permalink: /research/
 title: "Research Projects"
 author_profile: true
