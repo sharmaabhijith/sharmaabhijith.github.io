@@ -3,6 +3,7 @@ layout: category
 permalink: /data-wrangling/
 title: "Projects"
 author_profile: true
+taxonomy: Research Projects
 ---
 
 
