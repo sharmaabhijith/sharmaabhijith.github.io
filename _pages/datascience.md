@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: category
 permalink: /data-wrangling/
-title: "Data Science Projects"
+title: "Projects"
 author_profile: true
 ---
 
