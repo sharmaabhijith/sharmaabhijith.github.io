@@ -1,6 +1,6 @@
 ---
-permalink: /data-wrangling/
 title: "Projects"
+permalink: /data-wrangling/
 author_profile: true
 ---
 
