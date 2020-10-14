@@ -1,9 +1,8 @@
 ---
-layout: category
+layout: archive
 permalink: /data-wrangling/
 title: "Projects"
 author_profile: true
-taxonomy: Research Projects
 ---
 
 
