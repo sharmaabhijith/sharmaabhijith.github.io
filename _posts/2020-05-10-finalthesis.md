@@ -6,7 +6,7 @@ excerpt: "Control, Optimisation"
 mathjax: "true"
 ---
 <div class="image123">
-    <center><img src="/images/windturbine2.jpeg" height="350" width="350"></center>
+    <center><img src="/images/mpc.PNG" height="350" width="350"></center>
 </div>
 <br \>
 The model predictive control (MPC) has become a hot cake technology for various applications due to its ability to handle multi input multi output (MIMO) system with
