@@ -1,0 +1,28 @@
+---
+title: "Modelling of Magnetically Levitated System with Real Time Safety Assessment"
+date: 2019-08-10
+tags: [Control, Electronics]
+excerpt: "Control, Electronics"
+mathjax: "true"
+---
+
+<div class="image123">
+    <img src="/images/maglev.png" height="350" width="350", class="center">
+</div>
+<br />
+
+This project was a part of Mini Project that I did during my junior year. This project had opened up the door of interest in me for control systems and electronics. 
+We made a prototype to demonstrate magnetic leviataion of a small mass using PID control and ON/OFF control. This Real Time data was uploaded continuously on 
+Think Speak platform using IOT module ESP8266. We also designed a application specific board for this with Atmega 32 controller. 
+This work wouldn't been possible without the collaborative efforts of my friends Abhishek Tambe and Shubham Ganu. 
+
+<div class="image123">
+    <img src="/images/magboard.png" height="200" width="150", , class="center">
+</div>
+<br />
+
+
+The report below is the documentation of the work that I have done as a part of this project.
+
+<iframe src="<iframe src="https://drive.google.com/file/d/1kSMorwKCMujVmBItk66NH_0nJGp0Lxgt/preview" width="640" height="480"></iframe>" width="640" height="480"></iframe>
+
