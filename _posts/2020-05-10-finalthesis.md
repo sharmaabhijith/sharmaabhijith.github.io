@@ -8,7 +8,7 @@ mathjax: "true"
 <div class="image123">
     <center><img src="/images/mpc.PNG" height="350" width="350"></center>
 </div>
-<br \>
+<br />
 The model predictive control (MPC) has become a hot cake technology for various applications due to its ability to handle multi input multi output (MIMO) system with
 physical constraints. The output is formulated by solving constrained Quadratic Programming (QP) problem at every sampling instant to minimize the error between predicted 
 outputs and the reference input by using minimum control energy. 
