@@ -1,10 +1,8 @@
 ---
-layout: category
 title: "Data Driven Modelling and Feedback Control of Wind Turbine"
 date: 2019-08-10
 tags: [control, Electronics]
 excerpt: "Control, data science, Electronics"
-taxonomy: Research Projects
 mathjax: "true"
 ---
 
