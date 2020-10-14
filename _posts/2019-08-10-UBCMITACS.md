@@ -9,9 +9,7 @@ mathjax: "true"
 <div class="image123">
     <img src="/images/windturbine2.jpeg" height="350" width="350">
 </div>
-
-
-
+<br />
 This project is a part of MITACS summer research project and has been assigned to me by Dr. Ryozo Nagamune at University of British Columbia,
 one of the top ranked universities in the world. The aim of this project is to develop a model and feedback control of small scale wind turbine, which
 includes research to reduce the cost of offshore wind power by using advanced control theory to maximize turbine energy capture and increase the lifespan
