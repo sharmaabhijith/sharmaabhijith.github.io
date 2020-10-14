@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Science Projects"
     url: /data-wrangling/
-  - title: "Research Projects"
-    url: /research/
+  - title: "Links"
+    url: /link/
   - title: "CV"
     url: /cv/
   # - title: "About"
