@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: archive
 title: "Projects"
 permalink: /data-wrangling/
 author_profile: true
