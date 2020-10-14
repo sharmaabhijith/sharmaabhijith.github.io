@@ -1,7 +1,7 @@
 ---
 title: "Hardware Implementation of Model  Predictive Controller"
 date: 2020-05-10
-tags: [control, Optimisation]
+tags: [Research Projects]
 excerpt: "Control, Optimisation"
 mathjax: "true"
 ---
