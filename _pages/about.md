@@ -10,6 +10,6 @@ permalink: /about/
 - My work at COEP's Satellite team and as a Industrial Trainee at Hindustan Aeronautics Ltd has cultivated the research interest in me. 
 I would be always grateful to all members at COEP's satellite team to inspire me to take up research and responsibility during my senior year.
 
-My broad interest lies at the intersection of machine learning, optimisation and mechatronics. I'm also looking forward to pursue Masters in the same area.
+My broad interest lies at but not limited to the intersection of machine learning, optimisation and embedded system. I'm also looking forward to pursue Masters in the same area.
 
 If you want to chat, please feel free to shoot me an email.
