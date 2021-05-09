@@ -21,7 +21,7 @@ If you want to chat, please feel free to shoot me an email.
    > **CGPA:** 9.21\
    > **Supervisor:** Assoc. Prof. Dayaram Sonawane\
    > **Thesis:** Hardware Implementation of Model Predictive Controller\
-   > **Duration:** August 2016 to August 2020 \
+   > **Duration:** August 2016 to August 2020 
    
 ## Experience
 **Decision Analytics Associate: ZS Associates, Pune (Dec 2020 - May 2021)**
