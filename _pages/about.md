@@ -26,8 +26,8 @@ If you want to chat, please feel free to shoot me an email.
 **Decision Analytics Associate: ZS Associates, Pune (Dec 2020 - May 2021)**  <img src="/assets/ZS.png" width="100" height="100">
    > I interned at the Merck market research pod and helped develop advanced statistical models to understand dynamic businesss issues. I leveraged analytic techniques to use data to guide ZS team for decision making
    
-**MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**  <img src="/assets/UBC.png" width="200" height="100">
+**MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**  <img src="/assets/UBC.png" width="100" height="100">
    > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at Control Engineering Lab. I developed subsystem level data driven model and feedback control of small scale wind turbine.
    
-**Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**  <img src="/assets/HAL.png" width="100" height="100">
+**Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**  <img src="/assets/HAL.png" width="200" height="100">
    > I analysed the Fly by wire system and P tuning of control actuators. I studied the avionics board of Head-up display of the aircraft.
