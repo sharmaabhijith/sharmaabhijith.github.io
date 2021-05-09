@@ -3,7 +3,7 @@ permalink: /link/
 title: "Links"
 author_profile: true
 ---
-Below are some of the books and YouTube lectures that I followed and can be useful to you during your projects/ research.
+Below are some of the books and YouTube lectures that I followed (some of them I didn't but are considered as standard) and can be useful to you during your projects/ research.
 
 These resources can act as an introduction to applied mathematics, control theory and machine learning. 
 
