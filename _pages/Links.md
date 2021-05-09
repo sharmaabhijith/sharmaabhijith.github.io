@@ -14,7 +14,7 @@ These resources can act as an introduction to applied mathematics, control theor
 ## Applied Mathematics
 
  - **YouTube Lectures**
-    > - [<span style="font-size:4em;">Linear Algebra- Dr Gilbert Strang</span>](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+    > - [<span style="font-size:1em;">Linear Algebra- Dr Gilbert Strang</span>](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
     > - [Numerical Optimization-Dr Shirish K. Shevade](https://www.youtube.com/watch?v=biwjg9tpOvM&list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
     
  - **Books**
