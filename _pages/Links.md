@@ -5,6 +5,7 @@ author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
+
 ---
 Below are some of the books & YouTube lectures that I followed (some of them I didn't but are considered as standard) & can be useful to you during your work.
 
