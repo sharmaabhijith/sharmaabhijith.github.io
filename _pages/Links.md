@@ -14,8 +14,8 @@ These resources can act as an introduction to applied mathematics, control theor
 
   - **YouTube Lectures**
   
-    > - [Linear Algebra- Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
-    > - [Numerical Optimization-Shirish K. Shevade](https://www.youtube.com/watch?v=biwjg9tpOvM&list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
+    > - [Linear Algebra- Dr Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+    > - [Numerical Optimization-Dr Shirish K. Shevade](https://www.youtube.com/watch?v=biwjg9tpOvM&list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
     
   - **Books**
   
@@ -26,8 +26,9 @@ These resources can act as an introduction to applied mathematics, control theor
    
    - **YouTube Lectures**
    
-     > - [Control Engineering- NPTEL Course by R. Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
-     > - [Advanced Control Systems-NPTEL Course by Y.V Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
+     > - [Control Engineering- NPTEL Course by Dr R. Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+     > - [Advanced Control Systems-NPTEL Course by Dr Y.V Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
+     > - [Model Predictive Control-NPTEL Course by Dr M Kvasnica](https://www.uiam.sk/index.php?menu=2&submenu=7&part=0&page_id=44)
     
   - **Books**
   
@@ -39,9 +40,9 @@ These resources can act as an introduction to applied mathematics, control theor
 
   - **YouTube Lectures**
    
-    > - [Machine Learning- NPTEL Course by B. Ravindran](https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS)
-    > - [Deep Learning - NPTEL Course by Mitesh Khapra](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
-    > - [Reinforcement Learning - NPTEL Course by B. Ravindran](https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
+    > - [Machine Learning- NPTEL Course by Dr B. Ravindran](https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS)
+    > - [Deep Learning - NPTEL Course by Dr Mitesh Khapra](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
+    > - [Reinforcement Learning - NPTEL Course by Dr B. Ravindran](https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
     
     
   - **Books**
