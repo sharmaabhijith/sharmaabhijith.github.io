@@ -19,7 +19,7 @@ If you want to chat, please feel free to shoot me an email.
 **B.Tech in Instrumentation and Control Engineering (with Hons)**
    > **College:** College of Engineering, Pune (Affiliated with University of Pune)\
    > **CGPA:** 9.21\
-   > **Supervisor:** Assoc. Prof. Dayaram Sonawane\
+   > **Supervisor:** [Assoc. Prof. Dayaram Sonawane](http://www.coepembeddedlab.com/people.html)\
    > **Thesis:** Hardware Implementation of Model Predictive Controller\
    > **Duration:** August 2016 to August 2020 
    
