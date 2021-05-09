@@ -4,14 +4,13 @@ permalink: /about/
 toc: true
 toc_sticky: true
 ---
+- I am a Graduate Researcher and an incoming Masters in Computer Science student at the [University of British Columbia](https://www.ubc.ca/)
+- I am a part of Data Science and Artificial Intelligence group at UBC, under the guidance of [Dr. Apurva Narayan](https://sites.google.com/view/apurvanarayan/home?authuser=0)
+- I was born in the city the of [Kochi](https://en.wikipedia.org/wiki/Kochi) known as Queen of the Arabian Sea. I lived in [Pune](https://en.wikipedia.org/wiki/Pune) for 4 years while I was persuing my undergraduate education. I will be moving to beautiful city of [Kelowna](https://en.wikipedia.org/wiki/Kelowna) in this fall.
+-  I enjoy doing outdoor activities. I love watching cricket (and follow it passionately) but like playing football more. Recently, I developed a keen interest in cooking.
 
-- Pursuing Post Graduate Diploma in Data Science with specialisation in Deep Learning at International Institute of Information Technology, Bangalore.
-- Graduated as a Gold Medalist in Instrumentation and Control as a Bachelor of Technology (with Honors) from College of Engineering, Pune.
-- Recepient of MITACS Globalink Research Award 2019 as a summer intern at University of British Columbia.
-- My work at COEP's Satellite team and as a Industrial Trainee at Hindustan Aeronautics Ltd has cultivated the research interest in me. 
-I would be always grateful to all members at COEP's satellite team to inspire me to take up research and responsibility during my senior year.
 
-My broad interest lies at but not limited to the intersection of machine learning, optimisation and embedded system. I'm also looking forward to pursue Masters in the same area.
+My research interests lie broadly, in the fields of control theory, machine learning and optimization.
 
 If you want to chat, please feel free to shoot me an email.
 
@@ -30,5 +29,5 @@ If you want to chat, please feel free to shoot me an email.
 **MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**
    > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at Control Engineering Lab. I developed subsystem level data driven model and feedback control of small scale wind turbine.
    
-**Summer Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**
+**Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**
    > I analysed the Fly by wire system and P tuning of control actuators. I studied the avionics board of Head-up display of the aircraft.
