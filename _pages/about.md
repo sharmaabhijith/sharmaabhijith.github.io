@@ -6,8 +6,8 @@ toc_sticky: true
 ---
 - I am a Graduate Researcher and an incoming Masters in Computer Science student at the [University of British Columbia](https://www.ubc.ca/)
 - I am a part of Data Science and Artificial Intelligence group at UBC, under the guidance of [Dr. Apurva Narayan](https://sites.google.com/view/apurvanarayan/home?authuser=0)
-- I was born in the city the of [Kochi](https://en.wikipedia.org/wiki/Kochi) known as Queen of the Arabian Sea. I lived in [Pune](https://en.wikipedia.org/wiki/Pune) for 4 years while I was persuing my undergraduate education. I will be moving to beautiful city of [Kelowna](https://en.wikipedia.org/wiki/Kelowna) in this fall.
--  I enjoy doing outdoor activities. I love watching cricket (and follow it passionately) but like playing football more. Recently, I developed a keen interest in cooking.
+- I was born in the city the of [Kochi](https://en.wikipedia.org/wiki/Kochi) but moved to [Nashik](https://en.wikipedia.org/wiki/Nashik) where I spent most of my childhood. I moved [Pune](https://en.wikipedia.org/wiki/Pune) for 4 years for persuing my undergraduate education. I will be moving to beautiful city of [Kelowna](https://en.wikipedia.org/wiki/Kelowna) in this fall.
+-  I enjoy doing outdoor activities. I love watching cricket (and follow it passionately) but enjoy playing football(soccer) more. Recently, I developed a keen interest in cooking. Sometimes, I also enjoy a healthy discussion on international affairs.
 
 
 My research interests lie broadly, in the fields of control theory, machine learning and optimization.
