@@ -11,7 +11,7 @@ These resources can act as an introduction to applied mathematics, control theor
 
 ## Applied Mathematics
 
-  - **Youtube Lectures**
+  - **YouTube Lectures**
   
     > - [Linear Algebra- Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
     > - [Numerical Optimization-NPTEL course by Shirish K. Shevade](https://www.youtube.com/watch?v=biwjg9tpOvM&list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
@@ -23,7 +23,7 @@ These resources can act as an introduction to applied mathematics, control theor
 
 ## Control Theory
    
-   - **Youtube Lectures**
+   - **YouTube Lectures**
    
      > - [Control Engineering- NPTEL Course by Ramkrishna Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
      > - [Advanced Linear Control Systems-NPTEL course by Yogesh Vijay Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
@@ -36,7 +36,7 @@ These resources can act as an introduction to applied mathematics, control theor
 
 ## Machine Learning
 
-  - **Youtube Lectures**
+  - **YouTube Lectures**
    
     > - [Machine Learning- NPTEL Course by Balaraman Ravindran](https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS)
     > - [Deep Learning - NPTEL Course by Mitesh Khapra](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
