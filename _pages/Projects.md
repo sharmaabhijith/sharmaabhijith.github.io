@@ -1,7 +1,7 @@
 ---
 layout: tags
 title: "Projects"
-permalink: /data-wrangling/
+permalink: /link/
 author_profile: true
 toc: true
 toc_sticky: true
