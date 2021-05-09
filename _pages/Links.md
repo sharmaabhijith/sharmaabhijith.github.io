@@ -16,21 +16,21 @@ These resources can act as an introduction to applied mathematics, control theor
     
   - **Books**
   
-    [Convex Optimization- Stephen Boyd & Lieven Vandenberghe](https://drive.google.com/file/d/1hxUXUWiBRM6nhRTyHlfGuTK-88zTADmo/view?usp=sharing)\
-    [Linear and Non Linear Programming- David G. Luenberger & Yinyu Ye](https://drive.google.com/file/d/1RbQrCZOQV-GiR4FozCZj26FiTzJYYuIT/view?usp=sharing)
+    > -[Convex Optimization- Stephen Boyd & Lieven Vandenberghe](https://drive.google.com/file/d/1hxUXUWiBRM6nhRTyHlfGuTK-88zTADmo/view?usp=sharing)\
+    > -[Linear and Non Linear Programming- David G. Luenberger & Yinyu Ye](https://drive.google.com/file/d/1RbQrCZOQV-GiR4FozCZj26FiTzJYYuIT/view?usp=sharing)
 
 ## Control Theory
    
    - **Youtube Lectures**
    
-     [Control Engineering- NPTEL Course by Ramkrishna Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)\
-     [Advanced Linear Control Systems-NPTEL course by Yogesh Vijay Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
+     > [Control Engineering- NPTEL Course by Ramkrishna Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)\
+     > [Advanced Linear Control Systems-NPTEL course by Yogesh Vijay Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
     
   - **Books**
   
-    [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): (Beginner)\
-    [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): (Advanced)\
-    [Advanced Control using MATLAB](https://drive.google.com/file/d/12r5Vh-HnDco_RtESnKS1RXzj701jp60I/view?usp=sharing)
+    > [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): (Beginner)\
+    > [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): (Advanced)\
+    > [Advanced Control using MATLAB](https://drive.google.com/file/d/12r5Vh-HnDco_RtESnKS1RXzj701jp60I/view?usp=sharing)
 
 ## Machine Learning
 
