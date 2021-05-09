@@ -2,6 +2,7 @@
 permalink: /link/
 title: "Links"
 author_profile: true
+classes: wide
 ---
 Below are some of the books & YouTube lectures that I followed (some of them I didn't but are considered as standard) & can be useful to you during your work.
 
