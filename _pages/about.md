@@ -15,7 +15,7 @@ My research interests lie broadly, in the fields of control theory, machine lear
 If you want to chat, please feel free to shoot me an email.
 
 ## Education
-<img src="/assets/COEP.png" width="100" height="100">  **B.Tech in Instrumentation and Control Engineering (with Hons)**
+**B.Tech in Instrumentation and Control Engineering (with Hons)**  <img src="/assets/COEP.png" width="100" height="100">
    > **College:** College of Engineering, Pune (Affiliated with University of Pune)\
    > **CGPA:** 9.21\
    > **Supervisor:** [Dr. Dayaram Sonawane](http://www.coepembeddedlab.com/people.html)\
@@ -23,11 +23,11 @@ If you want to chat, please feel free to shoot me an email.
    > **Duration:** August 2016 to August 2020 
    
 ## Experience
-**Decision Analytics Associate: ZS Associates, Pune (Dec 2020 - May 2021)**
+**Decision Analytics Associate: ZS Associates, Pune (Dec 2020 - May 2021)**  <img src="/assets/ZS.png" width="100" height="100">
    > I interned at the Merck market research pod and helped develop advanced statistical models to understand dynamic businesss issues. I leveraged analytic techniques to use data to guide ZS team for decision making
    
-**MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**
+**MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**  <img src="/assets/UBC.png" width="100" height="100">
    > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at Control Engineering Lab. I developed subsystem level data driven model and feedback control of small scale wind turbine.
    
-**Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**
+**Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**  <img src="/assets/HAL.png" width="100" height="100">
    > I analysed the Fly by wire system and P tuning of control actuators. I studied the avionics board of Head-up display of the aircraft.
