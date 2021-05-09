@@ -16,7 +16,8 @@ These resources can act as an introduction to applied mathematics, control theor
     
   - **Books**
   
-    [Convex Optimization- Stephen Boyd & Lieven Vandenberghe](https://drive.google.com/file/d/1hxUXUWiBRM6nhRTyHlfGuTK-88zTADmo/view?usp=sharing)
+    [Convex Optimization- Stephen Boyd & Lieven Vandenberghe](https://drive.google.com/file/d/1hxUXUWiBRM6nhRTyHlfGuTK-88zTADmo/view?usp=sharing)\
+    [Linear and Non Linear Programming- David G. Luenberger & Yinyu Ye](https://drive.google.com/file/d/1RbQrCZOQV-GiR4FozCZj26FiTzJYYuIT/view?usp=sharing)
 
 ## Control Theory
    
@@ -28,7 +29,25 @@ These resources can act as an introduction to applied mathematics, control theor
   - **Books**
   
     [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): Beginner\
-    [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): Advanced
+    [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): Advanced\
+    [Advanced Control using MATLAB](https://drive.google.com/file/d/12r5Vh-HnDco_RtESnKS1RXzj701jp60I/view?usp=sharing)
+
+## Machine Learning
+
+  - **Youtube Lectures**
+   
+    [Machine Learning- NPTEL Course by Balaraman Ravindran](https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS)\
+    [Deep Learning - NPTEL Course by Mitesh Khapra](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)\
+    [Reinforcement Learning - NPTEL Course by Balaraman Ravindran](https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
+    
+    
+  - **Books**
+  
+    [Statistical Inference for Data Science](https://drive.google.com/file/d/1MpqhcjMOEJkR6HZoW-zumZy1cNKgoPWx/view?usp=sharing): Beginner\
+    [Probability and Statistics for Data Science](https://drive.google.com/file/d/1IfggJRfbaSpkHRZMeNZgMIECEtA1HqJj/view?usp=sharing): Beginner\
+    [Elements of Statistical Learning- Hastie, Robert and Friedman](https://drive.google.com/file/d/1I_XmjyHKOH2r5GODwpqawGzUuO7S94Vp/view?usp=sharing): Advanced
+
+    
     
 
 
