@@ -12,7 +12,7 @@ Below are some of the books & YouTube lectures that I followed (some of them I d
 These resources can act as an introduction to applied mathematics, control theory and machine learning. 
 
 ## Applied Mathematics
-<span "font-size:0.9em;">
+<span style = "font-size:0.9em;">
  **YouTube Lectures**
   
     > - [Linear Algebra- Dr Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
