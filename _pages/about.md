@@ -16,6 +16,7 @@ If you want to chat, please feel free to shoot me an email.
 
 ## Education
 **B.Tech in Instrumentation and Control Engineering (with Hons)**
+![image-right](/assets/images/COEP.png){: .align-right}
    > **College:** College of Engineering, Pune (Affiliated with University of Pune)\
    > **CGPA:** 9.21\
    > **Supervisor:** [Dr. Dayaram Sonawane](http://www.coepembeddedlab.com/people.html)\
