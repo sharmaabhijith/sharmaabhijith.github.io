@@ -22,7 +22,7 @@ If you want to chat, please feel free to shoot me an email.
    > **Thesis:** Hardware Implementation of Model Predictive Controller\
    > **Duration:** August 2016 to August 2020 
    
-## Experiencehttps://www.zs.com/
+## Experience
 <img src="/assets/ZS.png" width="80" height="80">   **Decision Analytics Associate: [ZS Associates](https://www.zs.com/) (Dec 20-May 21)**  
    > I interned at the Merck market research pod and helped develop advanced statistical models to understand dynamic businesss issues. I leveraged analytic techniques to use data to guide ZS team for decision making
    
