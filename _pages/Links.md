@@ -25,8 +25,8 @@ These resources can act as an introduction to applied mathematics, control theor
    
    - **YouTube Lectures**
    
-     > - [Control Engineering- R. Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
-     > - [Advanced Control Systems-Yogesh Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
+     > - [Control Engineering- NPTEL Course by R. Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
+     > - [Advanced Control Systems-NPTEL Course by Y.V Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
     
   - **Books**
   
