@@ -1,5 +1,4 @@
 ---
-title: " "
 permalink: /about/
 toc: true
 toc_sticky: true
