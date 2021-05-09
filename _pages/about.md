@@ -27,7 +27,7 @@ If you want to chat, please feel free to shoot me an email.
    > I interned at the Merck market research pod and helped develop advanced statistical models to understand dynamic businesss issues. I leveraged analytic techniques to use data to guide ZS team for decision making
    
 <img src="/assets/UBC.png" width="80" height="80"> **MITACS GRI'19 at University of British Columbia (May-Aug 19)**  
-   > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at Control Engineering Lab. I developed subsystem level data driven model and feedback control of small scale wind turbine.
+   > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at [Control Engineering Lab](http://cel.mech.ubc.ca/). I developed subsystem level data driven model and feedback control of small scale wind turbine.
    
 <img src="/assets/HAL.png" width="120" height="80">   **Intern at Hindustan Aeronautics Limited (May-Jun 18)**  
    > I analysed the Fly by wire system and P tuning of control actuators. I studied the avionics board of Head-up display of the aircraft.
