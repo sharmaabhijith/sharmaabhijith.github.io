@@ -24,14 +24,14 @@ If you want to chat, please feel free to shoot me an email.
 ## Experience
 **Decision Analytics Associate: ZS Associates, Pune (Dec 2020 - May 2021)**
    > -Developed advanced statistical models to understand dynamic businesss issues\
-   > -Leverage analytic techniques to use data to guide ZS team for decision making\
+   > -Leverage analytic techniques to use data to guide ZS team for decision making
    
 **MITACS GRI'19 at University of British Columbia, Vancouver (May 2019 - Aug 2019)**
    > -Developed subsystem level data driven models of wind turbine upto 80 % model fit\
    > -Calibrated anemometer, wind sensor, pitch and yaw encoders and in the system\
-   > -Designed feedback control of pitch and yaw system for maximum power point tracking\
+   > -Designed feedback control of pitch and yaw system for maximum power point tracking
    
 **Summer Intern at Hindustan Aeronautics Limited, Aircarft Division (May 2018 - Jun 2018)**
    > -Analysed electrical and instrument rotables of aircraft\
    > -Analysed Fly by wire system and P  tuning of stabilizers, flapperons and canards\
-   > -Debugged avionics board of Head-up display\
+   > -Debugged avionics board of Head-up display
