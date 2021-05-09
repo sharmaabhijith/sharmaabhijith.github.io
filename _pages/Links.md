@@ -28,8 +28,8 @@ These resources can act as an introduction to applied mathematics, control theor
     
   - **Books**
   
-    [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): Beginner\
-    [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): Advanced\
+    [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): (Beginner)\
+    [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): (Advanced)\
     [Advanced Control using MATLAB](https://drive.google.com/file/d/12r5Vh-HnDco_RtESnKS1RXzj701jp60I/view?usp=sharing)
 
 ## Machine Learning
@@ -43,10 +43,12 @@ These resources can act as an introduction to applied mathematics, control theor
     
   - **Books**
   
-    [Statistical Inference for Data Science](https://drive.google.com/file/d/1MpqhcjMOEJkR6HZoW-zumZy1cNKgoPWx/view?usp=sharing): Beginner\
-    [Probability and Statistics for Data Science](https://drive.google.com/file/d/1IfggJRfbaSpkHRZMeNZgMIECEtA1HqJj/view?usp=sharing): Beginner\
-    [Elements of Statistical Learning- Hastie, Robert and Friedman](https://drive.google.com/file/d/1I_XmjyHKOH2r5GODwpqawGzUuO7S94Vp/view?usp=sharing): Advanced
-
+    [Statistical Inference for Data Science](https://drive.google.com/file/d/1MpqhcjMOEJkR6HZoW-zumZy1cNKgoPWx/view?usp=sharing): (Beginner)\
+    [Probability and Statistics for Data Science](https://drive.google.com/file/d/1IfggJRfbaSpkHRZMeNZgMIECEtA1HqJj/view?usp=sharing): (Beginner)\
+    [Elements of Statistical Learning- Hastie, Robert and Friedman](https://drive.google.com/file/d/1I_XmjyHKOH2r5GODwpqawGzUuO7S94Vp/view?usp=sharing): (Advanced)\
+    [Neural Networks and Deep Learning](https://drive.google.com/file/d/1zO3E-ueAIr4Z0mXSZxDyc20xgK6vT2Dm/view?usp=sharing)
+    [Reinforcement Learning- Richard Sutton & Andrew Barto](https://drive.google.com/file/d/1ULscrA6nzQueuQ7ebKIAW7NOg6rdn3Rz/view?usp=sharing)
+    
     
     
 
