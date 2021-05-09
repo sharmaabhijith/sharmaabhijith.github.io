@@ -1,11 +1,9 @@
 ---
-title: "" 
+title: "About Me" 
 permalink: /about/
 toc: true
 toc_sticky: true
 ---
-## About me
-
 - Pursuing Post Graduate Diploma in Data Science with specialisation in Deep Learning at International Institute of Information Technology, Bangalore.
 - Graduated as a Gold Medalist in Instrumentation and Control as a Bachelor of Technology (with Honors) from College of Engineering, Pune.
 - Recepient of MITACS Globalink Research Award 2019 as a summer intern at University of British Columbia.
