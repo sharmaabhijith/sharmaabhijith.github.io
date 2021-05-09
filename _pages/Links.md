@@ -12,25 +12,26 @@ Below are some of the books & YouTube lectures that I followed (some of them I d
 These resources can act as an introduction to applied mathematics, control theory and machine learning. 
 
 ## Applied Mathematics
-- **YouTube Lectures**
+<span font-size:4em;">
+>> **YouTube Lectures**
   
     > - [Linear Algebra- Dr Gilbert Strang](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
     > - [Numerical Optimization-Dr Shirish K. Shevade](https://www.youtube.com/watch?v=biwjg9tpOvM&list=PLEAYkSg4uSQ3Hi2kc4n4bqJvxrtyaQa3P)
     
-- **Books**
+>> **Books**
   
     > - [Convex Optimization- Stephen Boyd & Lieven Vandenberghe](https://drive.google.com/file/d/1hxUXUWiBRM6nhRTyHlfGuTK-88zTADmo/view?usp=sharing)
     > - [Linear & Non Linear Programming- D. Luenberger & Yinyu Ye](https://drive.google.com/file/d/1RbQrCZOQV-GiR4FozCZj26FiTzJYYuIT/view?usp=sharing)
-
+</span>
 ## Control Theory
    
-- **YouTube Lectures**
+>> **YouTube Lectures**
    
      > - [Control Engineering- NPTEL Course by Dr R. Pasumarthy](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D&index=1)
      > - [Advanced Control Systems-NPTEL Course by Dr Y.V Hote](https://www.youtube.com/watch?v=8OVD2BHA5Hg&list=PLLy_2iUCG87CVglDEadTd_PRjA-g1KqVo)
      > - [Model Predictive Control-NPTEL Course by Dr M Kvasnica](https://www.uiam.sk/index.php?menu=2&submenu=7&part=0&page_id=44)
     
- - **Books**
+ >> **Books**
   
     > - [Control Systems Engineering- Norman S Nise](https://drive.google.com/file/d/1Dzxv7M2KqyIglI3WiDHLq0IJath8Kzyl/view?usp=sharing): (Beginner)
     > - [Modern Control Engineering- Katsuhiko Ogata](https://drive.google.com/file/d/1g5LJZyc5JjlI6RY8GshKw3X7Y1uaCVzt/view?usp=sharing): (Advanced)
@@ -38,14 +39,14 @@ These resources can act as an introduction to applied mathematics, control theor
 
 ## Machine Learning
 
-- **YouTube Lectures**
+>> **YouTube Lectures**
    
     > - [Machine Learning- NPTEL Course by Dr B. Ravindran](https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS)
     > - [Deep Learning - NPTEL Course by Dr Mitesh Khapra](https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
     > - [Reinforcement Learning - NPTEL Course by Dr B. Ravindran](https://www.youtube.com/watch?v=TIlDzLZPyhY&list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
     
     
-- **Books**
+>> **Books**
   
     > - [Statistical Inference for Data Science](https://drive.google.com/file/d/1MpqhcjMOEJkR6HZoW-zumZy1cNKgoPWx/view?usp=sharing): (Beginner)
     > - [Probability and Statistics for Data Science](https://drive.google.com/file/d/1IfggJRfbaSpkHRZMeNZgMIECEtA1HqJj/view?usp=sharing): (Beginner)
