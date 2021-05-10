@@ -25,7 +25,7 @@ If you want to chat, please feel free to shoot me an email.
 ## Experience
 <img src="/assets/ZS.jpg" width="80" height="80">   **Decision Analytics Associate: [ZS Associates](https://www.zs.com/) (Dec 20-May 21)**  
    > I interned at the Merck market research pod and helped develop advanced statistical models to understand dynamic businesss issues. I leveraged analytic techniques to use data to guide ZS team for decision making
-   
+  
 <img src="/assets/UBC.png" width="70" height="70"> **MITACS GRI'19 at [University of British Columbia](https://www.ubc.ca/) (May-Aug 19)**  
    > I worked as a Research Assistant under the guidance of [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) at [Control Engineering Lab](http://cel.mech.ubc.ca/). I developed subsystem level data driven model and feedback control of small scale wind turbine.
    
