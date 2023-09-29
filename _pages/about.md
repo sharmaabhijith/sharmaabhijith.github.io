@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong> Machine Learning Engineer @ </strong> <a href='https://troj.ai/'>Troj AI</a>  <strong> | MSc. Computer Science @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
+subtitle: <strong> Machine Learning Intern @ </strong> <a href='https://troj.ai/'>Troj AI</a>  <strong> | M.Sc. Computer Science @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
 
 profile:
   align: right
