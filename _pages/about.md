@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Ex-Machine Learning Engineer** TrojAI
+subtitle: <b>Ex-Machine Learning Engineer</b> TrojAI
  
 profile:
   align: right
