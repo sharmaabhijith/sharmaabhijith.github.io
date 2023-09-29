@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Ex-Machine Learning Engineer</b> TrojAI
- 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
 profile:
   align: right
   image: prof_pic.png
