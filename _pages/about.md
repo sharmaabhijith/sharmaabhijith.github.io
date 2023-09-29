@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Ex-Machine Learning Engineer** @ [TrojAI](https://troj.ai/) 
+subtitle: **Ex-Machine Learning Engineer** [TrojAI](https://troj.ai/) 
  
 profile:
   align: right
