@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b> Machine Learning Engineer @ </b> <a href='https://troj.ai/'>Troj AI</a>  <b> | MSc. Computer Science @ </b> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
+subtitle: <strong> Machine Learning Engineer @ </strong> <a href='https://troj.ai/'>Troj AI</a>  <strong> | MSc. Computer Science @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
 
 profile:
   align: right
@@ -15,6 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Student at the Computer Science Department, at the University of Southern California and a Research Intern at the Robot Learning Group at Microsoft Research where I work on reinforcement learning, machine learning and artificial general intelligence. I was a Student Researcher at Google Brain (now Google Deepmind) in 2022. I'm interested in autonomous decision making, causality and machine learning. My current research is about teaching robots to discover physical processes (friction, gravity, etc) through interaction. I also work on learning from demonstrations.
+**Namaste`** 🙏 **Hello** 👋
 
-At USC, I'm fortunate to be advised by Prof Laurent Itti. I am also fortunate to be collaborating with Prof Bernhard Schölkopf at the Max Planck Institute for Intelligent Systems. In an old life, I helped build the Facebook-start funded Skyline Labs. I have also spent time at the Adolphs Lab at Caltech, in addition to University of Oxford as a SENS Scholar. In the industry, I've done internships at Bell Labs, Adobe Research, Wynk Music and PepsiCo. I received my bachelors in electrical engineering at the College of Engineering, Pune in 2019. 
+I am a master's in computer science graduate at the University of British Columbia (UBC). My program was thesis-based where I researched [safeguarding vision models against physical adversaries](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435778?o=0) under the supervision of [Dr. Apurva Narayan](https://a-narayan.github.io/).  I was an [MITACS Accelerate](https://www.mitacs.ca/en/programs/accelerate) intern with Troj AI Inc. where I worked under the mentorship of Phil Munz. I am interested in advancing the reliability and security of AI systems. My ultimate goal is to make AI easily adoptable in our daily lives by making it safe and ethical (i.e. beyond typical accuracy numbers).
+
+Previously, I was a Decision Analytics Associate at ZS Associates. I was fortunate to get selected for the MITACS Globalink program as an undergraduate researcher at UBC in 2019 under [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/). I received my bachelor's in Instrumentation and Control engineering with the gold medal at the [College of Engineering, Pune](https://www.coep.org.in/) in 2020. 
+
+In my spare time, I like playing cricket and equally enjoy cycling. Since last year, I have been also invested in learning world history and international policies. 
