@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Machine Learning Engineer</b> <a href='#'>Troj AI</a>
 
 profile:
   align: right
