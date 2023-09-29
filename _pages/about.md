@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD Student at the Computer Science Department, at the University of Southern California and a Research Intern at the Robot Learning Group at Microsoft Research where I work on reinforcement learning, machine learning and artificial general intelligence. I was a Student Researcher at Google Brain (now Google Deepmind) in 2022. I'm interested in autonomous decision making, causality and machine learning. My current research is about teaching robots to discover physical processes (friction, gravity, etc) through interaction. I also work on learning from demonstrations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At USC, I'm fortunate to be advised by Prof Laurent Itti. I am also fortunate to be collaborating with Prof Bernhard Schölkopf at the Max Planck Institute for Intelligent Systems. In an old life, I helped build the Facebook-start funded Skyline Labs. I have also spent time at the Adolphs Lab at Caltech, in addition to University of Oxford as a SENS Scholar. In the industry, I've done internships at Bell Labs, Adobe Research, Wynk Music and PepsiCo. I received my bachelors in electrical engineering at the College of Engineering, Pune in 2019. 
