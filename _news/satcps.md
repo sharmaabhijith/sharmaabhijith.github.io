@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:book:  1 Workshop paper accepted at [SaT-CPS 2023](https://sites.google.com/view/sat-cps2023/)
+📄:  1 Workshop paper accepted at [SaT-CPS 2023](https://sites.google.com/view/sat-cps2023/)
