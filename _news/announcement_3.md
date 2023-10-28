@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:briefcase:  Starting new position as research associate/engineer at UWaterloo :classical_building: and AVL :car: ! 
