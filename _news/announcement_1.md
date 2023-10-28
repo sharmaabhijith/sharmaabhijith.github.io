@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at Winter Conference on Applications of Computer Vision (WACV) 2024, Hawaii
+:page_facing_up: 1 Full paper accepted at [WACV 2024](https://wacv2024.thecvf.com/), Hawaii. 
