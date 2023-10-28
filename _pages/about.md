@@ -21,4 +21,4 @@ I am a master's in computer science graduate at the University of British Columb
 
 Previously, I was a Decision Analytics Associate at [ZS Associates](https://www.zs.com/) (2021). I was also fortunate to be selected as MITACS Globalink visiting researcher at UBC under [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) (2019). I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the [College of Engineering, Pune](https://www.coep.org.in/) in 2020. 
 
-In my spare time, I like playing cricket and equally enjoy cycling. Since last year, I have also been invested in learning world history and international policies. 
+In my spare time, I like playing badminton. Since last year, I have also been invested in learning world history and international policies. 
