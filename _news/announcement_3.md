@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:briefcase:  Starting new position as research associate/engineer at UWaterloo :classical_building: and AVL :car: ! 
+:briefcase:  Starting new position as research associate at UWaterloo :classical_building: and AVL :car: ! 
