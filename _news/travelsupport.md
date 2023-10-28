@@ -1,2 +1,8 @@
+---
+layout: post
+date: 2022-02-08 07:59:00-0400
+inline: true
+related_posts: false
+---
 
-Received Travel Grant from Dept. of Computer Science and Engineering at Texas A\&M University for travel to AAMAS 2023
+:airplane: Received Travel Support Grant from CIFAR to attend [SaTML 2023](https://satml.org/2023/), Rayleigh.
