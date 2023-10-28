@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:briefcase:  Starting new position as Research Associate at :classical_building: UWaterloo and :car: AVL  ! 
+:briefcase:  Starting new position as Research Associate at :car: [AVL](https://www.avl.com/en-ca) and :classical_building: [UWaterloo](https://uwaterloo.ca/automation-intelligent-systems-group/) ! 
