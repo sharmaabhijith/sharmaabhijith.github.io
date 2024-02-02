@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 **Namaste`** 🙏 **Hello** 👋
 
+I am an Associate Research Engineer at (University of Waterloo)[https://uwaterloo.ca/embedded-software-group/] Research with [AVL](https://www.avl.com/en), working on adversarial testing of autonomous vehicles. I am also a part-time Data Scientist with [Palitronica](https://www.palitronica.com/).
+
 I am a master's in computer science graduate at the University of British Columbia (UBC). My program was thesis-based where I researched safeguarding vision models against physical adversaries [(find here)](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435778?o=0) under the supervision of [Dr. Apurva Narayan](https://a-narayan.github.io/).  I was an [MITACS Accelerate](https://www.mitacs.ca/en/programs/accelerate) intern with Troj AI Inc. where I worked under the mentorship of Phil Munz. I am interested in advancing the reliability and security of AI systems. My ultimate goal is to make AI easily adoptable in our daily lives by making it safe and ethical (i.e. beyond typical accuracy numbers).
 
 Previously, I was a Decision Analytics Associate at [ZS Associates](https://www.zs.com/) (2021). I was also fortunate to be selected as MITACS Globalink visiting researcher at UBC under [Dr. Ryozo Nagamune](https://mech.ubc.ca/ryozo-nagamune/) (2019). I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the [College of Engineering, Pune](https://www.coep.org.in/) in 2020. 
