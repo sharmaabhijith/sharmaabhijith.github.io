@@ -21,6 +21,6 @@ I am an Associate Research Engineer at [University of Waterloo](https://uwaterlo
 
 Previously, I was a thesis-based master's in computer science student at the University of British Columbia (UBC). I researched safeguarding vision models against physical adversaries [(find here)](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435778?o=0) under the supervision of [Dr. Apurva Narayan](https://a-narayan.github.io/).  I was an [MITACS Accelerate](https://www.mitacs.ca/en/programs/accelerate) intern with [Troj AI Inc](https://troj.ai/). where I worked under the mentorship of Phil Munz. I am passionate about building reliable/robust AI models for safety critical applications.
 
-Before I joined UBC, I was a Decision Analytics Associate at [ZS Associates](https://www.zs.com/) (2021). I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the [College of Engineering, Pune](https://www.coep.org.in/) in 2020. 
+Before I joined UBC, I was a Decision Analytics Associate at [ZS Associates](https://www.zs.com/) (2021). I was also privileged to be part of CSAT initiative (https://en.wikipedia.org/wiki/Swayam) as an attitude control system member. I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the [College of Engineering, Pune](https://www.coep.org.in/) in 2020. 
 
 In my leisure time, I like playing badminton. Since last year, I have also been invested in learning world history and international policies. 
