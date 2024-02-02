@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong> Machine Learning Intern @ </strong> <a href='https://troj.ai/'>Troj AI</a>  <strong> | M.Sc. Computer Science @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
+subtitle: <strong> ML Research | M.Sc. Computer Science @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
 
-profile:
+profile: 
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
