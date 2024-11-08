@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong> Associate Researcher @ </strong> <a href='https://uwaterloo.ca/'> University of Waterloo</a>  | M.Sc. Comp Sci @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
+subtitle: <strong> Associate Researcher @ </strong> <a href='https://uwaterloo.ca/'> University of Waterloo</a>  | <strong> M.Sc. Comp Sci @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
 
 profile:
   align: right
