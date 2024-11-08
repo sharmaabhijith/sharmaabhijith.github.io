@@ -6,7 +6,7 @@ subtitle: <strong> Associate Researcher @ </strong> <a href='https://uwaterloo.c
 
 profile:
   align: right
-  image: DP.jpg
+  image: portfolio_photo.JPG
   image_circular: false
   more_info: >
 news: true  # includes a list of news items
