@@ -6,7 +6,6 @@ subtitle:
 
 profile:
   align: right
-  logo: logo.png
   image: portfolio_photo.JPG
     
 
