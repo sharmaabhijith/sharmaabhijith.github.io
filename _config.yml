@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Giuseppe
+first_name: Abhijith
 middle_name: #
-last_name: Perelli
+last_name: Sharma
 email: # perelli@di.uniroma1.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -67,13 +67,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: giuseppeperelli # your GitHub user name
+github_username: sharmaabhijith # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: giuseppeperelli # your LinkedIn user name
+linkedin_username: abhijith-sharma # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: QinfNSwAAAAJ # your Google Scholar ID
+scholar_userid: RcUHBFEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-8687-6323 # your ORCID ID
@@ -89,7 +89,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: https://dblp.org/pid/08/10670.html # your DBLP profile url
+dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
@@ -291,8 +291,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: Perelli
-  first_name: [Giuseppe]
+  last_name: Sharma
+  first_name: [Abhijith]
 
   style: apa
   locale: en
@@ -473,7 +473,7 @@ jsonresume:
   - basics
   - work
   - education
-  #- publications
+  - publications
   #- projects
   #- volunteer
   - awards
