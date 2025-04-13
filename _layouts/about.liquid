@@ -53,6 +53,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <!-- Logos Section -->
+    <div class="logos" style="display: flex; justify-content: space-around; align-items: center; margin: 2rem 0;">
+      <img src="{{ '/assets/img/mbzuailogo.jfif' | relative_url }}" alt="MBZUAI Logo" style="max-height: 80px;">
+      <img src="{{ '/assets/img/uwaterloologo.jfif' | relative_url }}" alt="University of Waterloo Logo" style="max-height: 80px;">
+      <img src="{{ '/assets/img/coeplogo.jpg' | relative_url }}" alt="COEP Logo" style="max-height: 80px;">
+      <img src="{{ '/assets/img/ubclogo.jfif' | relative_url }}" alt="UBC Logo" style="max-height: 80px;">
+    </div>
+
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
