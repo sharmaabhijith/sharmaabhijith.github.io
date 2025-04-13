@@ -24,4 +24,4 @@ I earned my master's in computer science at the **[University of British Columbi
 
 During my undergrad, I was also privileged to be part of **[COEP-SAT-2](https://en.wikipedia.org/wiki/Swayam)**, a satellite initiative, where I worked on the priliminary control system design. I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the **[College of Engineering, Pune](https://www.coep.org.in/)**, India. I also worked shortly as a Decision Analytics Associate at **[ZS Associates](https://www.zs.com/)**
 
-In my leisure time, I like playing squash, swimming, and reading history and its impact on modern culture. 
+Outside of work, I enjoy playing squash, swimming, and delving into history to understand its impact on contemporary society.
