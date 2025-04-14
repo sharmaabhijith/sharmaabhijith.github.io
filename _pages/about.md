@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: portfolio_photo.JPG
+  image: portfolio_photo_low.png
     
 
 news: true  # includes a list of news items
