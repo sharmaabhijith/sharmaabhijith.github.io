@@ -2,80 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Giuseppe Perelli
+      value: Abhijith Sharma
     - name: Languages
-      value: Italian (native), English (professional proficiency)
+      value: English (professional), Hindi (native)
     - name: Email
-      value: perelli@di.uniroma1.it
-      link: mailto:perelli@di.uniroma1.it
-      
+      value: abhijith.sharma.ubc@gmail.com
+      link: mailto:abhijith.sharma.ubc@gmail.com
+    - name: Location
+      value: Abu Dhabi, UAE
+    - name: Website
+      value: sharmaabhijith.github.io
+      link: https://sharmaabhijith.github.io
+    - name: LinkedIn
+      value: linkedin.com/in/abhijith-sharma
+      link: https://www.linkedin.com/in/abhijith-sharma/
+    - name: Scholar
+      value: Google Scholar
+      link: https://scholar.google.com/citations?user=RcUHBFEAAAAJ&hl=en&authuser=1
 
 - title: Experience
   type: time_table
   contents:
-    - title: (Tenure-Track) Assistant Professor
-      institution: Department of Computer Science, Sapienza University of Rome
-      year: 2021 - Present
-    
-    - title: Research Associate
-      institution: Department of Computer, Control, and Business Engineering, Sapienza University of Rome
-      year: 2020 - 2021
-    
-    - title: Postdoktor
-      institution: Department of Computer Science and Engineering Chalmers/University of Gothenburg.
-      year: 2019
-
-    - title: Research Associate
-      institution: Department of Informatics, University of Leicester
-      year: 2018-2019
-
-    - title: Research Assistant
-      institution: Department of Computer Science, University of Oxford
-      year: 2015 - 2018
+    - title: Machine Learning Research Associate II
+      institution: MBZUAI, Abu Dhabi
+      year: Dec 2024 – Jun 2025
+      description: |
+        • Worked on privacy risks of spiking neural networks against membership inference attacks  
+        • Contributed to torchgfn with graphical environment for GFlowNet analysis  
+        • Developed agentic framework for diverse melody generation via GFlowNet-finetuned LLMs
+    - title: Machine Learning Research Associate
+      institution: University of Waterloo AI Institute, Canada
+      year: Sep 2023 – Nov 2024
+      description: |
+        • Built adversarial test features for autonomous vehicle visual AI (AVL Scenius)  
+        • Developed CARLA-based real-time object detection testing framework  
+        • Proposed a KDE-based classifier for adversarial vs regular vehicle identification
+    - title: Data Science Intern (MITACS Accelerate)
+      institution: TrojAI Inc., Canada
+      year: Oct 2021 – Aug 2023
+      description: |
+        • Surveyed 100+ physical adversarial threats and designed Multi-Patch attacks  
+        • Proposed model-agnostic defenses using scene total-variation metrics
+    - title: Decision Analytics Associate
+      institution: ZS Associates, India
+      year: Dec 2020 – May 2021
+      description: |
+        • Designed surveys and models for US-based medical equipment pricing  
+        • Built statistical models and performed business analytics in R/Python/Tableau
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
-      institution: University of Naples
-      year: 2015
-      thesis title: Logics for Multi-Agent Systems Verification
-      supervisor: Prof. Aniello Murano
-    - title: Ms in Mathematics
-      institution: University of Naples
-      year: 2011
-    - title: Bs in Mathematics
-      institution: University of Naples
-      year: 2008
+    - title: Ph.D. in Machine Learning
+      institution: MBZUAI, Abu Dhabi
+      year: 2025 (expected)
+      thesis title: Decision Making Under Uncertainty using Generative Flow Networks
+      supervisor: Dr. Salem Lahlou
+    - title: M.Sc. in Computer Science
+      institution: University of British Columbia, Canada
+      year: 2023
+      thesis title: Towards Safeguarding CNNs Against Physical Corruptions
+      supervisor: Dr. Apurva Narayan, Dr. John Braun
+    - title: B.Tech in Electrical Engineering
+      institution: College of Engineering, Pune
+      year: 2020
+      thesis title: Hardware Implementation of Model Predictive Controller
+      supervisor: Dr. D. N. Sonawane
 
 - title: Awards
   type: time_table
   contents:
-    - title: Marco Somalvico 2023 Award
-      institution: Italian Association for Artificial Intelligence
-      year: 2023
-      description: Best under 37 Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence
-    - title: 3+2 Award
-      institution: Italian Association for Logics and its Applications
-      year: 2012
-      description: Best Master Thesis in logics for the Academic Year 2011-2012
-      
-- title: Selected Talks
-  type: nested_list
-  contents:
-    - title: From Synthesis to Rational Synthesis A Logic-Based Approach to Multi-Agent Systems.
-      items:
-        - 25/05/2023 Seminar Talk, University of Southampton
-        - 14/11/2022 <a href:"https://sites.google.com/diag.uniroma1.it/loc3-seminar-sapienza/home-page">Sapienza LoC3 Seminar</a>, Sapienza University of Rome
-        - 02/09/2022 LMAS Workshop 2022, IRIT – Université Toulouse 1 Capitole
-        - 10/04/2019 Formal Methods for Artificial Intelligence Seminars, Imperial College London
-        - 29/03/2018 Seminar Talk, University of Naples ‘Federico II’
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: MBZUAI PhD Scholarship
+      institution: MBZUAI
+      year: 2025–2029
+      description: Full PhD fellowship covering tuition and living expenses (AED 840K)
+    - title: MITACS Accelerate Award
+      institution: MITACS
+      year: 2021–2023
+      description: CA$50K scholarship for research on adversarial defenses
+    - title: MITACS Globalink Graduate Fellowship
+      institution: MITACS
+      year: 2021
+      description: CA$15K for returning scholars for master’s studies in Canada
+    - title: UBC Dean’s Entrance Scholarship
+      institution: University of British Columbia
+      year: 2021
+      description: CA$5K merit award for incoming graduate students
+    - title: Gold Medalist
+      institution: College of Engineering, Pune
+      year: 2020
+      description: Highest GPA in the department for B.Tech. (Electrical Engineering)
+    - title: COEP Alumni Excellence Award
+      institution: College of Engineering, Pune
+      year: 2020
+      description: INR 50K based on academic and extracurricular excellence
+    - title: MITACS Globalink Research Award
+      institution: MITACS
+      year: 2019
+      description: CA$10K to conduct research at UBC as visiting scholar
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
