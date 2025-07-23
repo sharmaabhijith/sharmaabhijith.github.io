@@ -3,22 +3,23 @@
   contents:
     - name: Full Name
       value: Abhijith Sharma
-    - name: Languages
-      value: English (professional), Hindi (native)
     - name: Email
       value: abhijith.sharma.ubc@gmail.com
-      link: mailto:abhijith.sharma.ubc@gmail.com
+      links:
+        - link: mailto:abhijith.sharma.ubc@gmail.com
+          name: Email
     - name: Location
       value: Abu Dhabi, UAE
-    - name: Website
-      value: sharmaabhijith.github.io
-      link: https://sharmaabhijith.github.io
     - name: LinkedIn
       value: linkedin.com/in/abhijith-sharma
-      link: https://www.linkedin.com/in/abhijith-sharma/
+      links:
+        - link: https://www.linkedin.com/in/abhijith-sharma/
+          name: LinkedIn
     - name: Scholar
       value: Google Scholar
-      link: https://scholar.google.com/citations?user=RcUHBFEAAAAJ&hl=en&authuser=1
+      links:
+        - link: https://scholar.google.com/citations?user=RcUHBFEAAAAJ&hl=en&authuser=1
+          name: Google Scholar
 
 - title: Experience
   type: time_table
@@ -26,29 +27,29 @@
     - title: Machine Learning Research Associate II
       institution: MBZUAI, Abu Dhabi
       year: Dec 2024 – Jun 2025
-      description: |
-        • Worked on privacy risks of spiking neural networks against membership inference attacks  
-        • Contributed to torchgfn with graphical environment for GFlowNet analysis  
-        • Developed agentic framework for diverse melody generation via GFlowNet-finetuned LLMs
+      description:
+        - Worked on privacy risks of spiking neural networks against membership inference attacks
+        - Contributed to torchgfn with graphical environment for GFlowNet analysis
+        - Developed agentic framework for diverse melody generation via GFlowNet-finetuned LLMs
     - title: Machine Learning Research Associate
       institution: University of Waterloo AI Institute, Canada
       year: Sep 2023 – Nov 2024
-      description: |
-        • Built adversarial test features for autonomous vehicle visual AI (AVL Scenius)  
-        • Developed CARLA-based real-time object detection testing framework  
-        • Proposed a KDE-based classifier for adversarial vs regular vehicle identification
+      description:
+        - Built adversarial test features for autonomous vehicle visual AI (AVL Scenius)
+        - Developed CARLA-based real-time object detection testing framework
+        - Proposed a KDE-based classifier for adversarial vs regular vehicle identification
     - title: Data Science Intern (MITACS Accelerate)
       institution: TrojAI Inc., Canada
       year: Oct 2021 – Aug 2023
-      description: |
-        • Surveyed 100+ physical adversarial threats and designed Multi-Patch attacks  
-        • Proposed model-agnostic defenses using scene total-variation metrics
+      description:
+        - Surveyed 100+ physical adversarial threats and designed Multi-Patch attacks
+        - Proposed model-agnostic defenses using scene total-variation metrics
     - title: Decision Analytics Associate
       institution: ZS Associates, India
       year: Dec 2020 – May 2021
-      description: |
-        • Designed surveys and models for US-based medical equipment pricing  
-        • Built statistical models and performed business analytics in R/Python/Tableau
+      description:
+        - Designed surveys and models for US-based medical equipment pricing
+        - Built statistical models and performed business analytics in R/Python/Tableau
 
 - title: Education
   type: time_table
@@ -56,18 +57,21 @@
     - title: Ph.D. in Machine Learning
       institution: MBZUAI, Abu Dhabi
       year: 2025 (expected)
-      thesis title: Decision Making Under Uncertainty using Generative Flow Networks
-      supervisor: Dr. Salem Lahlou
+      description:
+        - Thesis title: Decision Making Under Uncertainty using Generative Flow Networks
+        - Supervisor: Dr. Salem Lahlou
     - title: M.Sc. in Computer Science
       institution: University of British Columbia, Canada
       year: 2023
-      thesis title: Towards Safeguarding CNNs Against Physical Corruptions
-      supervisor: Dr. Apurva Narayan, Dr. John Braun
+      description:
+        - Thesis title: Towards Safeguarding CNNs Against Physical Corruptions
+        - Supervisor: Dr. Apurva Narayan, Dr. John Braun
     - title: B.Tech in Electrical Engineering
       institution: College of Engineering, Pune
       year: 2020
-      thesis title: Hardware Implementation of Model Predictive Controller
-      supervisor: Dr. D. N. Sonawane
+      description:
+        - Thesis title: Hardware Implementation of Model Predictive Controller
+        - Supervisor: Dr. D. N. Sonawane
 
 - title: Awards
   type: time_table
@@ -75,30 +79,37 @@
     - title: MBZUAI PhD Scholarship
       institution: MBZUAI
       year: 2025–2029
-      description: Full PhD fellowship covering tuition and living expenses (AED 840K)
+      description:
+        - Full PhD fellowship covering tuition and living expenses (AED 840K)
     - title: MITACS Accelerate Award
       institution: MITACS
       year: 2021–2023
-      description: CA$50K scholarship for research on adversarial defenses
+      description:
+        - CA$50K scholarship for research on adversarial defenses
     - title: MITACS Globalink Graduate Fellowship
       institution: MITACS
       year: 2021
-      description: CA$15K for returning scholars for master’s studies in Canada
-    - title: UBC Dean’s Entrance Scholarship
+      description:
+        - CA$15K for returning scholars for master's studies in Canada
+    - title: UBC Dean's Entrance Scholarship
       institution: University of British Columbia
       year: 2021
-      description: CA$5K merit award for incoming graduate students
+      description:
+        - CA$5K merit award for incoming graduate students
     - title: Gold Medalist
       institution: College of Engineering, Pune
       year: 2020
-      description: Highest GPA in the department for B.Tech. (Electrical Engineering)
+      description:
+        - Highest GPA in the department for B.Tech. (Electrical Engineering)
     - title: COEP Alumni Excellence Award
       institution: College of Engineering, Pune
       year: 2020
-      description: INR 50K based on academic and extracurricular excellence
+      description:
+        - INR 50K based on academic and extracurricular excellence
     - title: MITACS Globalink Research Award
       institution: MITACS
       year: 2019
-      description: CA$10K to conduct research at UBC as visiting scholar
+      description:
+        - CA$10K to conduct research at UBC as visiting scholar
 
 
