@@ -13,7 +13,7 @@ selected_papers: true
 My research interests lie in developing robust and trustworthy AI systems under uncertainty. I focus on **generative flow networks**, **adversarial robustness**, **decision-making frameworks**, and **evaluation strategies for neural models**, especially in safety-critical domains like autonomous driving and security-sensitive AI applications. My work spans the development of novel testing frameworks, defense strategies, and generative models powered by LLMs and GFlowNets.
 
 ###### GFlowNets for Decision Making
-During my PhD, I investigated how Generative Flow Networks can be leveraged to sample diverse, high-reward decisions in uncertain environments. I applied these methods in diverse areas such as music generation, code fuzzing, and autonomous testing.
+During my PhD, I am investigating how Generative Flow Networks can be leveraged to sample diverse, high-reward decisions in uncertain environments. I applied these methods in diverse areas such as music generation, code fuzzing, and autonomous testing.
 
 ###### Adversarial Robustness and Evaluation
 As a Research Associate at the University of Waterloo AI Institute, I developed adversarial testing pipelines using CARLA and kernel density-based classifiers to distinguish threats in autonomous driving. I also proposed novel adversarial patches and scene-level defenses during my work at TrojAI Inc.
