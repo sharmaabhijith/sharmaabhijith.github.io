@@ -1,6 +1,18 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<!-- Google Analytics -->
+{% if site.enable_google_analytics %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
+  </script>
+{% endif %}
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <!-- <link rel="stylesheet" href="{{ '/assets/css/mdb.min.css' | relative_url | bust_file_cache }}"> -->
@@ -64,13 +76,22 @@
 {% endif %}
 
 <!-- GeoJSON support via Leaflet -->
-{% if page.map %}
+{% if page.map or page.layout == 'about' %}
   <link
     defer
     rel="stylesheet"
     href="https://unpkg.com/leaflet@{{ site.leaflet.version }}/dist/leaflet.css"
     integrity="{{ site.leaflet.integrity.css }}"
     crossorigin=""
+  >
+{% endif %}
+
+<!-- Visitor Map Styling -->
+{% if page.layout == 'about' %}
+  <link
+    defer
+    rel="stylesheet"
+    href="{{ '/assets/css/visitor-map.css' | relative_url | bust_file_cache }}"
   >
 {% endif %}
 

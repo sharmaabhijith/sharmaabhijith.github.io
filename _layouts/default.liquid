@@ -75,5 +75,22 @@
     {% include scripts/progressBar.liquid %}
     {% include scripts/wechatModal.liquid %}
     {% include scripts/imageLayouts.liquid %}
+    
+    <!-- Visitor Map JavaScript -->
+    {% if page.layout == 'about' %}
+      <script
+        defer
+        src="https://unpkg.com/leaflet@{{ site.leaflet.version }}/dist/leaflet.js"
+        integrity="{{ site.leaflet.integrity.js }}"
+        crossorigin=""
+      ></script>
+      <script defer src="{{ '/assets/js/visitor-analytics.js' | relative_url | bust_file_cache }}"></script>
+      <script defer src="{{ '/assets/js/visitor-map.js' | relative_url | bust_file_cache }}"></script>
+    {% endif %}
+    
+    <!-- Google Analytics Test (for debugging) -->
+    {% if site.enable_google_analytics %}
+      <script defer src="{{ '/assets/js/ga-test.js' | relative_url | bust_file_cache }}"></script>
+    {% endif %}
   </body>
 </html>

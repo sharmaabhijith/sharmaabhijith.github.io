@@ -1,0 +1,363 @@
+/* Visitor Map 3D Styling */
+.visitor-map-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+    margin: 2rem 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    transition: all 0.3s ease;
+}
+
+.visitor-map-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 25px 50px rgba(0,0,0,0.4);
+}
+
+.visitor-map-header {
+    text-align: center;
+    padding: 2rem 0 1rem 0;
+    color: white;
+}
+
+.visitor-map-header h2 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.visitor-map-header p {
+    margin: 0.5rem 0 0 0;
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+#visitor-map {
+    height: 600px;
+    width: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Fallback Globe Styling */
+.fallback-map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: white;
+    text-align: center;
+}
+
+.globe-container {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 2rem;
+}
+
+.globe {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    animation: rotate 20s linear infinite;
+}
+
+.globe-sphere {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, #4a90e2, #357abd);
+    box-shadow: inset -10px -10px 20px rgba(0,0,0,0.3);
+}
+
+.globe-outer-shadow {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: radial-gradient(circle at 30% 30%, transparent 60%, rgba(0,0,0,0.1) 100%);
+}
+
+.globe-worldmap {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    transform-style: preserve-3d;
+}
+
+.globe-worldmap-front,
+.globe-worldmap-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="0.5"/><circle cx="50" cy="50" r="35" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="0.3"/><circle cx="50" cy="50" r="25" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="0.2"/></svg>');
+    background-size: cover;
+}
+
+.globe-worldmap-back {
+    transform: rotateY(180deg);
+}
+
+@keyframes rotate {
+    from { transform: rotateY(0deg); }
+    to { transform: rotateY(360deg); }
+}
+
+.visitor-stats {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.stat-item {
+    text-align: center;
+    background: rgba(255,255,255,0.1);
+    padding: 1rem;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.2);
+    transition: all 0.3s ease;
+}
+
+.stat-item:hover {
+    background: rgba(255,255,255,0.2);
+    transform: translateY(-3px);
+}
+
+.stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f39c12;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.stat-label {
+    display: block;
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+}
+
+/* Leaflet Map Enhancements */
+.leaflet-container {
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.visitor-marker {
+    animation: pulse 2s infinite;
+    transition: all 0.3s ease;
+}
+
+.visitor-marker:hover {
+    transform: scale(1.2);
+    z-index: 1000;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 0.8; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.8; }
+}
+
+/* Popup Styling */
+.visitor-popup-container .leaflet-popup-content-wrapper {
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.visitor-popup-container .leaflet-popup-content {
+    margin: 0;
+    padding: 0;
+}
+
+.visitor-popup {
+    padding: 1rem;
+    min-width: 200px;
+}
+
+.popup-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.country-flag {
+    font-size: 1.5rem;
+}
+
+.popup-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat-value {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #e74c3c;
+}
+
+.stat-label {
+    display: block;
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 0.25rem;
+}
+
+/* Legend Styling */
+.info.legend {
+    background: rgba(255,255,255,0.95) !important;
+    padding: 15px !important;
+    border-radius: 10px !important;
+    border: 2px solid rgba(0,0,0,0.1) !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+    font-size: 12px !important;
+    min-width: 150px !important;
+}
+
+.info.legend h4 {
+    margin: 0 0 10px 0 !important;
+    color: #333 !important;
+    font-size: 14px !important;
+}
+
+/* Visitor Counter Styling */
+.visitor-counter {
+    background: rgba(255,255,255,0.95) !important;
+    padding: 15px !important;
+    border-radius: 10px !important;
+    border: 2px solid rgba(0,0,0,0.1) !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+    min-width: 200px !important;
+    font-size: 12px !important;
+}
+
+.visitor-counter h4 {
+    margin: 0 0 10px 0 !important;
+    color: #333 !important;
+    font-size: 14px !important;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .visitor-map-header h2 {
+        font-size: 2rem;
+    }
+    
+    .visitor-stats {
+        gap: 1rem;
+    }
+    
+    .stat-item {
+        padding: 0.75rem;
+    }
+    
+    .stat-number {
+        font-size: 1.5rem;
+    }
+    
+    #visitor-map {
+        height: 400px;
+    }
+    
+    .globe-container {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .visitor-map-header h2 {
+        font-size: 1.5rem;
+    }
+    
+    .visitor-stats {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .stat-item {
+        padding: 0.5rem;
+    }
+    
+    #visitor-map {
+        height: 300px;
+    }
+    
+    .globe-container {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    .visitor-map-container {
+        background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+    }
+    
+    .info.legend,
+    .visitor-counter {
+        background: rgba(44, 62, 80, 0.95) !important;
+        color: #ecf0f1 !important;
+    }
+    
+    .info.legend h4,
+    .visitor-counter h4 {
+        color: #ecf0f1 !important;
+    }
+    
+    .stat-item {
+        background: rgba(44, 62, 80, 0.3);
+        border-color: rgba(236, 240, 241, 0.2);
+    }
+    
+    .stat-item:hover {
+        background: rgba(44, 62, 80, 0.5);
+    }
+}
+
+/* Loading Animation */
+.visitor-map-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.visitor-map-loading::after {
+    content: '';
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgba(255,255,255,0.3);
+    border-top: 2px solid white;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-left: 10px;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
