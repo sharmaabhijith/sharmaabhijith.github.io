@@ -1,313 +1,329 @@
 {
   "basics": {
-    "name": "Giuseppe Perelli",
-    "label": "",
+    "name": "Abhijith Sharma",
+    "label": "Machine Learning Research Associate II",
     "image": "",
-    "email": "perelli@di.uniroma1.it",
-    "phone": "+390649255470",
-    "url": "https://giuseppeperelli.github.io/",
-    "summary": "",
+    "email": "abhijith.sharma.ubc@gmail.com",
+    "phone": "",
+    "url": "https://sharmaabhijith.github.io/",
+    "summary": "Machine Learning Research Associate II at MBZUAI, specializing in GFlowNets, adversarial machine learning, and autonomous vehicle safety. PhD candidate focusing on decision making under uncertainty using generative flow networks.",
     "location": {
-      "address": "Viale Regina Elena, 295",
-      "postalCode": "00161",
-      "city": "Roma",
-      "countryCode": "Italy",
-      "region": "Italy"
-    }
-  },
-  "languages": [
-    {
-      "language": "Italian",
-      "fluency": "Native",
-      "icon": ""
+      "address": "Abu Dhabi",
+      "postalCode": "",
+      "city": "Abu Dhabi",
+      "countryCode": "UAE",
+      "region": "UAE"
     },
-    {
-      "language": "English",
-      "fluency": "Professional Proficiency",
-      "icon": ""
-    }
-  ],
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "abhijith-sharma",
+        "url": "https://www.linkedin.com/in/abhijith-sharma/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "RcUHBFEAAAAJ",
+        "url": "https://scholar.google.com/citations?user=RcUHBFEAAAAJ&hl=en&authuser=1"
+      },
+      {
+        "network": "GitHub",
+        "username": "sharmaabhijith",
+        "url": "https://github.com/sharmaabhijith"
+      }
+    ]
+  },
   "work": [
     {
-      "name": "University of Oxford, Department of Computer Science",
-      "position": "Research Assistant",
-      "url": "https://www.cs.ox.ac.uk/projects/RACE/index.html",
-      "startDate": "2015-04",
-      "endDate": "2018-05",
-      "summary": ""
-    },
-    {
-      "name": "University of Leicester, Department of Informatics",
-      "position": "Research Associate",
-      "url": "https://dsynma.bitbucket.io",
-      "startDate": "2019-07",
-      "endDate": "2019-12",
-      "summary": ""
-    },
-    {
-      "name": "Chalmers/University of Göteborg, Department of Computer Science and Engineering",
-      "position": "Postdoktor",
-      "url": "https://dsynma.bitbucket.io//",
-      "startDate": "2019-07",
-      "endDate": "2019-12",
-      "summary": ""
-    },
-    {
-      "name": "Sapienza Universityof Rome, Department of Computer, Control, and Business Engineering",
-      "position": "Senior Research Associate",
-      "url": "https://whitemech.github.io/people",
-      "startDate": "2020-01",
-      "endDate": "2021-11",
-      "summary": ""
-    },
-    {
-      "name": "Sapienza University of Rome, Department of Computer Science",
-      "position": "Assistant Professor (RTD-B)",
-      "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
-      "startDate": "2021-12",
-      "endDate": "2024-11",
-      "summary": ""
-    },
-    {
-      "name": "Sapienza University of Rome, Department of Computer Science",
-      "position": "Associate Professor",
-      "url": "https://www.di.uniroma1.it/it/docenti/perelli-giuseppe",
+      "name": "MBZUAI",
+      "position": "Machine Learning Research Associate II",
+      "url": "https://mbzuai.ac.ae/",
       "startDate": "2024-12",
-      "endDate": "Present",
-      "summary": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "Young Researcher 'Marco Somalvico' Award",
-      "date": "2023-11-08",
-      "awarder": "AIxIA: Italian Association for Artificial Intelligence",
-      "url": "https://aixia.it/premi/premio-intelligenza-artificiale-marco-somalvico-biennale/",
-      "summary": "The prize is awarded to the 'best under 37 Italian researcher who autonomously contributed to advance the state-of-the-art in Artificial Intelligence.'"
+      "endDate": "2025-06",
+      "summary": "Research on privacy risks of spiking neural networks against membership inference attacks. Contributed to torchgfn with graphical environment for GFlowNet analysis. Developed agentic framework for diverse melody generation via GFlowNet-finetuned LLMs. Focus on probabilistic generative modeling and cybersecurity applications.",
+      "highlights": [
+        "Worked on privacy risks of spiking neural networks against membership inference attacks",
+        "Contributed to torchgfn with graphical environment for GFlowNet analysis",
+        "Developed agentic framework for diverse melody generation via GFlowNet-finetuned LLMs",
+        "Research focus on probabilistic generative modeling and cybersecurity applications"
+      ]
     },
     {
-      "title": "3+2 Award",
-      "date": "2012",
-      "awarder": "AILA: Italian Association for Logics and its Applications",
-      "url": "https://www.ailalogica.it/pdf/premi/relazione3+2-2012.pdf",
-      "summary": "The prize is awarded to the 'best master theses in logics in the Academic Year 2011-12.'"
+      "name": "University of Waterloo AI Institute",
+      "position": "Machine Learning Research Associate",
+      "url": "https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/",
+      "startDate": "2023-09",
+      "endDate": "2024-11",
+      "summary": "Built adversarial test features for autonomous vehicle visual AI (AVL Scenius). Developed CARLA-based real-time object detection testing framework. Proposed a KDE-based classifier for adversarial vs regular vehicle identification. Collaborated with AVL on autonomous vehicle safety testing.",
+      "highlights": [
+        "Built adversarial test features for autonomous vehicle visual AI (AVL Scenius)",
+        "Developed CARLA-based real-time object detection testing framework",
+        "Proposed a KDE-based classifier for adversarial vs regular vehicle identification",
+        "Collaborated with AVL on autonomous vehicle safety testing"
+      ]
+    },
+    {
+      "name": "TrojAI Inc.",
+      "position": "Data Science Intern (MITACS Accelerate)",
+      "url": "https://troj.ai/",
+      "startDate": "2021-10",
+      "endDate": "2023-08",
+      "summary": "Surveyed 100+ physical adversarial threats and designed Multi-Patch attacks. Proposed model-agnostic defenses using scene total-variation metrics. Research on safeguarding vision models against physical adversaries. Thesis work on CNN robustness against physical corruptions.",
+      "highlights": [
+        "Surveyed 100+ physical adversarial threats and designed Multi-Patch attacks",
+        "Proposed model-agnostic defenses using scene total-variation metrics",
+        "Research on safeguarding vision models against physical adversaries",
+        "Thesis work on CNN robustness against physical corruptions"
+      ]
+    },
+    {
+      "name": "ZS Associates",
+      "position": "Decision Analytics Associate",
+      "url": "https://www.zs.com/",
+      "startDate": "2020-12",
+      "endDate": "2021-05",
+      "summary": "Designed surveys and models for US-based medical equipment pricing. Built statistical models and performed business analytics in R/Python/Tableau. Developed pricing strategies for medical device manufacturers.",
+      "highlights": [
+        "Designed surveys and models for US-based medical equipment pricing",
+        "Built statistical models and performed business analytics in R/Python/Tableau",
+        "Developed pricing strategies for medical device manufacturers"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Naples 'Federico II'",
-      "location": "Naples, Italy",
-      "url": "",
-      "studyType": "Bs in Mathematics",
-      "startDate": "2005",
-      "endDate": "2008",
-      "score": ""
+      "institution": "MBZUAI",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://mbzuai.ac.ae/",
+      "studyType": "PhD",
+      "area": "Machine Learning",
+      "startDate": "2025",
+      "endDate": "2029",
+      "score": "Expected",
+      "courses": [
+        "Thesis: Decision Making Under Uncertainty using Generative Flow Networks",
+        "Supervisor: Dr. Salem Lahlou",
+        "Research focus: GFlowNets, probabilistic modeling, cybersecurity"
+      ]
     },
     {
-      "institution": "University of Naples 'Federico II'",
-      "location": "Naples, Italy",
-      "url": "",
-      "studyType": "Ms in Mathematics",
-      "startDate": "2008",
-      "endDate": "2011",
-      "score": ""
+      "institution": "University of British Columbia",
+      "location": "Vancouver, Canada",
+      "url": "https://www.ubc.ca/",
+      "studyType": "MSc",
+      "area": "Computer Science",
+      "startDate": "2021",
+      "endDate": "2023",
+      "score": "Completed",
+      "courses": [
+        "Thesis: Towards Safeguarding CNNs Against Physical Corruptions",
+        "Supervisor: Dr. Apurva Narayan, Dr. John Braun",
+        "Research focus: Adversarial machine learning, computer vision security"
+      ]
     },
     {
-      "institution": "University of Naples 'Federico II'",
-      "location": "Naples, Italy",
-      "url": "",
-      "area": "Formal Methods for Artificial Intelligence",
-      "studyType": "PhD in Computer Science",
-      "startDate": "2012",
-      "endDate": "2015",
-      "score": ""
+      "institution": "College of Engineering, Pune",
+      "location": "Pune, India",
+      "url": "https://www.coep.org.in/",
+      "studyType": "B.Tech",
+      "area": "Instrumentation and Control Engineering",
+      "startDate": "2016",
+      "endDate": "2020",
+      "score": "Gold Medal",
+      "courses": [
+        "Thesis: Hardware Implementation of Model Predictive Controller",
+        "Supervisor: Dr. D. N. Sonawane",
+        "Gold Medal for highest GPA in department",
+        "Part of COEP-SAT-2 satellite initiative"
+      ]
     }
   ],
-  "service": [
+  "awards": [
     {
-      "name": "Chair",
-      "conference": [
-        {
-          "title": "RADICAL-23, ",
-          "url": "https://sites.google.com/site/radicalconcur/previous-editions/radical-2023"
-        },
-        {
-          "title": "LAMAS&SR-21, ",
-          "url": "https://lamassr.github.io/editions/2021"
-        },
-        {
-          "title": "RADICAL-19.",
-          "url": "https://sites.google.com/site/radicalconcur/previous-editions/radical-2019"
-        }
+      "title": "MBZUAI PhD Scholarship",
+      "date": "2025-2029",
+      "awarder": "MBZUAI",
+      "url": "",
+      "summary": "Full PhD fellowship covering tuition and living expenses (AED 840K). Competitive scholarship for outstanding research potential."
+    },
+    {
+      "title": "MITACS Accelerate Award",
+      "date": "2021-2023",
+      "awarder": "MITACS",
+      "url": "",
+      "summary": "CA$50K scholarship for research on adversarial defenses. Industry-academia collaboration with TrojAI Inc."
+    },
+    {
+      "title": "MITACS Globalink Graduate Fellowship",
+      "date": "2021",
+      "awarder": "MITACS",
+      "url": "",
+      "summary": "CA$15K for returning scholars for master's studies in Canada. Recognition for previous research excellence."
+    },
+    {
+      "title": "UBC Dean's Entrance Scholarship",
+      "date": "2021",
+      "awarder": "University of British Columbia",
+      "url": "",
+      "summary": "CA$5K merit award for incoming graduate students. Based on academic excellence and research potential."
+    },
+    {
+      "title": "Gold Medalist",
+      "date": "2020",
+      "awarder": "College of Engineering, Pune",
+      "url": "",
+      "summary": "Highest GPA in the department for B.Tech. (Instrumentation and Control Engineering). Recognition for academic excellence."
+    },
+    {
+      "title": "COEP Alumni Excellence Award",
+      "date": "2020",
+      "awarder": "College of Engineering, Pune",
+      "url": "",
+      "summary": "INR 50K based on academic and extracurricular excellence. Comprehensive evaluation of student achievements."
+    },
+    {
+      "title": "MITACS Globalink Research Award",
+      "date": "2019",
+      "awarder": "MITACS",
+      "url": "",
+      "summary": "CA$10K to conduct research at UBC as visiting scholar. International research experience opportunity."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Towards Safeguarding CNNs Against Physical Corruptions",
+      "publisher": "UBC Master's Thesis",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "Comprehensive study of physical adversarial attacks on computer vision systems. Proposed novel defense mechanisms using scene total-variation metrics. Surveyed 100+ physical adversarial threats and attack methodologies."
+    },
+    {
+      "name": "Hardware Implementation of Model Predictive Controller",
+      "publisher": "COEP Bachelor's Thesis",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "FPGA-based implementation of MPC for real-time control systems. Optimized control algorithms for embedded systems."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Python (PyTorch, TensorFlow, NumPy, Pandas)",
+        "C/C++",
+        "R",
+        "MATLAB",
+        "Verilog HDL"
       ]
     },
     {
-      "name": "Proceedings Chair",
-      "conference": [
-        {
-          "title": "ICPM-23.",
-          "url": "https://icpmconference.org/2023"
-        }
+      "name": "Machine Learning & AI",
+      "level": "",
+      "keywords": [
+        "Deep Learning (CNNs, RNNs, Transformers)",
+        "GFlowNets and Generative Models",
+        "Adversarial Attacks and Defenses",
+        "Computer Vision",
+        "Reinforcement Learning"
       ]
     },
     {
-      "name": "Senior Programme Committee",
-      "conference": [
-        {
-          "title": "ECAI-25, ",
-          "url": "https://www.ecai2025.eu/"
-        },
-        {
-          "title": "AAMAS-25, ",
-          "url": "https://aamas2025.org/"
-        },
-        {
-          "title": "ECAI-24, ",
-          "url": "https://www.ecai2024.eu/"
-        },
-        {
-          "title": "AAMAS-23, ",
-          "url": "https://aamas2023.soton.ac.uk/"
-        },
-        {
-          "title": "IJCAI-21.",
-          "url": "https://ijcai-21.org"
-        }
+      "name": "Tools & Frameworks",
+      "level": "",
+      "keywords": [
+        "PyTorch, TensorFlow, Keras",
+        "CARLA (Autonomous Driving Simulator)",
+        "OpenCV, PIL",
+        "Git, Docker",
+        "Tableau, Power BI"
       ]
     },
     {
-      "name": "Programme Committee",
-      "conference": [
-        {
-          "title": "RADICAL-25, ",
-          "url": "https://sites.google.com/site/radicalconcur/Home"
-        },
-        {
-          "title": "IJCAI-25, ",
-          "url": "https://2025.ijcai.org"
-        },
-        {
-          "title": "AAMAS-24, ",
-          "url": "https://www.aamas2024-conference.auckland.ac.nz"
-        },
-        {
-          "title": "IJCAI-24, ",
-          "url": "https://ijcai24.org"
-        },
-        {
-          "title": "ECAI-23, ",
-          "url": "https://www.ecai2023.eu/"
-        },
-        {
-          "title": "IJCAI-23, ",
-          "url": "https://ijcai-23.org/"
-        },
-        {
-          "title": "LAMAS&SR-23, ",
-          "url": "https://vadimmalvone.github.io/lamas-sr-2023"
-        },
-        {
-          "title": "KR-23, ",
-          "url": "https://kr.org/KR2023"
-        },
-        {
-          "title": "AAMAS-22, ",
-          "url": "https://aamas2022-conference.auckland.ac.nz"
-        },
-        {
-          "title": "AAAI-22, ",
-          "url": "https://aaai.org/Conferences/AAAI-22"
-        },
-        {
-          "title": "AAAI-21, ",
-          "url": "https://aaai.org/Conferences/AAAI-21"
-        },
-        {
-          "title": "AAMAS-21, ",
-          "url": "https://aamas2021.soton.ac.uk"
-        },
-        {
-          "title": "IJCAI-20, ",
-          "url": "https://ijcai20.org"
-        },
-        {
-          "title": "EUMAS-20, ",
-          "url": "https://eumas2020.csd.auth.gr/eumas2020"
-        },
-        {
-          "title": "AAMAS-20, ",
-          "url": "https://aamas2020.conference.auckland.ac.nz"
-        },
-        {
-          "title": "ECAI-20, ",
-          "url": "http://ecai2020.eu"
-        },
-        {
-          "title": "IJCAI-19, ",
-          "url": "https://ijcai19.org"
-        },
-        {
-          "title": "AAMAS-19, ",
-          "url": "http://aamas2019.encs.concordia.ca"
-        },
-        {
-          "title": "EUMAS-18, ",
-          "url": "https://eumas2018.w.uib.no"
-        },
-        {
-          "title": "IJCAI-18, ",
-          "url": "https://ijcai-18.org"
-        },
-        {
-          "title": "AAMAS-18, ",
-          "url": "http://celweb.vuse.vanderbilt.edu/aamas18/home"
-        },
-        {
-          "title": "AAAI-18, ",
-          "url": "http://aaai.org/Conferences/AAAI/aaai18.php"
-        },
-        {
-          "title": "EUMAS-17, ",
-          "url": "https://eumas2017.ibisc.univ-evry.fr"
-        },
-        {
-          "title": "SR-17, ",
-          "url": "http://sr2017.csc.liv.ac.uk"
-        },
-        {
-          "title": "CILC-17, ",
-          "url": "http://cilc2017.unina.it/"
-        },
-        {
-          "title": "IJCAI-17, ",
-          "url": "https://ijcai-17.org"
-        },
-        {
-          "title": "IJCAI-16, ",
-          "url": "http://ijcai-16.org"
-        },
-        {
-          "title": "AAMAS-16.",
-          "url": "https://sis.smu.edu.sg/aamas2016/"
-        }
+      "name": "Research Areas",
+      "level": "",
+      "keywords": [
+        "Autonomous Vehicle Testing",
+        "Physical Adversarial Attacks",
+        "Membership Inference Attacks",
+        "Model Robustness",
+        "Privacy-Preserving ML"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "name": "Organizing Committee",
-      "conference": [
-        {
-          "title": "SR-15, ",
-          "url": "https://sites.google.com/site/sr2015homepage"
-        },
-        {
-          "title": "SR-13, ",
-          "url": "http://www.strategicreasoning.net/editions/2013/"
-        },
-        {
-          "title": "GAMES-12.",
-          "url": "(http://www.games.unina.it"
-        }
+      "language": "Hindi",
+      "fluency": "Native"
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Generative Flow Networks (GFlowNets)",
+        "Adversarial Machine Learning",
+        "Computer Vision Security",
+        "Probabilistic Generative Modeling",
+        "Autonomous Vehicle Safety",
+        "Cybersecurity in AI Systems",
+        "Multi-Agent Systems",
+        "Decision Making Under Uncertainty"
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "COEP-SAT-2 Satellite Initiative",
+      "description": "Worked on preliminary control system design for satellite. Part of student satellite development team. Contributed to attitude determination and control systems.",
+      "highlights": [
+        "Worked on preliminary control system design for satellite",
+        "Part of student satellite development team",
+        "Contributed to attitude determination and control systems"
+      ],
+      "keywords": [
+        "Satellite Control",
+        "Attitude Determination",
+        "Embedded Systems"
+      ],
+      "startDate": "2019",
+      "endDate": "2020",
+      "url": "",
+      "roles": [
+        "Control System Design"
+      ],
+      "entity": "College of Engineering, Pune",
+      "type": "Academic Project"
+    },
+    {
+      "name": "Adversarial Testing Framework for AVs",
+      "description": "Developed comprehensive testing framework for autonomous vehicle perception. Integrated with AVL Scenius platform for real-world testing. Created KDE-based classifier for adversarial detection.",
+      "highlights": [
+        "Developed comprehensive testing framework for autonomous vehicle perception",
+        "Integrated with AVL Scenius platform for real-world testing",
+        "Created KDE-based classifier for adversarial detection"
+      ],
+      "keywords": [
+        "Autonomous Vehicles",
+        "Adversarial Testing",
+        "Computer Vision",
+        "Safety Testing"
+      ],
+      "startDate": "2023",
+      "endDate": "2024",
+      "url": "",
+      "roles": [
+        "Lead Developer"
+      ],
+      "entity": "University of Waterloo",
+      "type": "Research Project"
     }
   ]
 }
