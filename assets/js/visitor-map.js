@@ -117,8 +117,6 @@ class VisitorWorldMap {
         // Add visitor markers
         this.addVisitorMarkers();
         
-        // Add legend
-        this.addLegend();
         
         // Add real-time visitor counter
         this.addVisitorCounter();
@@ -182,14 +180,8 @@ class VisitorWorldMap {
                 border-radius: 15px;
             }
             
-            .visitor-marker {
-                animation: pulse 2s infinite;
-            }
-            
-            @keyframes pulse {
-                0% { transform: scale(1); opacity: 0.8; }
-                50% { transform: scale(1.1); opacity: 1; }
-                100% { transform: scale(1); opacity: 0.8; }
+            .visitor-marker-static {
+                /* Static markers - no animation */
             }
         `;
         document.head.appendChild(style);
@@ -198,7 +190,7 @@ class VisitorWorldMap {
     addVisitorMarkers() {
         this.visitorData.countries.forEach((country, index) => {
             // Create custom 3D-style marker
-            const markerSize = Math.max(8, Math.min(25, country.visitors / 15));
+            const markerSize = Math.max(10, Math.min(25, country.visitors / 50));
             const markerColor = this.getMarkerColor(country.visitors);
             
             const marker = L.circleMarker([country.lat, country.lng], {
@@ -208,7 +200,7 @@ class VisitorWorldMap {
                 weight: 2,
                 opacity: 1,
                 fillOpacity: 0.8,
-                className: 'visitor-marker'
+                className: 'visitor-marker-static'
             }).addTo(this.map);
 
             // Add popup with visitor information
@@ -247,10 +239,10 @@ class VisitorWorldMap {
     }
 
     getMarkerColor(visitors) {
-        if (visitors > 300) return '#e74c3c';      // Red for high traffic
-        if (visitors > 100) return '#f39c12';      // Orange for medium-high
-        if (visitors > 50) return '#f1c40f';       // Yellow for medium
-        if (visitors > 20) return '#2ecc71';       // Green for medium-low
+        if (visitors > 1000) return '#e74c3c';      // Red for high traffic
+        if (visitors > 500) return '#f39c12';      // Orange for medium-high
+        if (visitors > 100) return '#f1c40f';       // Yellow for medium
+        if (visitors > 50) return '#2ecc71';       // Green for medium-low
         return '#3498db';                           // Blue for low
     }
 
