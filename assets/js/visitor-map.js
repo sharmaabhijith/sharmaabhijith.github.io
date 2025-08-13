@@ -282,35 +282,35 @@ class VisitorWorldMap {
     }
 
     addVisitorCounter() {
-        const counterDiv = L.control({ position: 'topleft' });
+        const counterDiv = L.control({ position: 'bottomright' });
         counterDiv.onAdd = () => {
             const div = L.DomUtil.create('div', 'visitor-counter');
             div.style.backgroundColor = 'rgba(255,255,255,0.95)';
-            div.style.padding = '15px';
-            div.style.borderRadius = '10px';
-            div.style.border = '2px solid rgba(0,0,0,0.1)';
-            div.style.boxShadow = '0 4px 15px rgba(0,0,0,0.1)';
-            div.style.minWidth = '200px';
-            div.style.fontSize = '12px';
+            div.style.padding = '8px';
+            div.style.borderRadius = '8px';
+            div.style.border = '1px solid rgba(0,0,0,0.1)';
+            div.style.boxShadow = '0 2px 8px rgba(0,0,0,0.1)';
+            div.style.minWidth = '120px';
+            div.style.fontSize = '10px';
             
             div.innerHTML = `
-                <h4 style="margin: 0 0 10px 0; color: #333; font-size: 14px;">📊 Live Stats</h4>
-                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                <h4 style="margin: 0 0 6px 0; color: #333; font-size: 11px;">📊 Live Stats</h4>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 6px;">
                     <div style="text-align: center;">
-                        <div style="font-size: 18px; font-weight: bold; color: #e74c3c;" id="live-total">${this.visitorData.totalVisitors.toLocaleString()}</div>
-                        <div style="font-size: 10px; color: #666;">Total</div>
+                        <div style="font-size: 12px; font-weight: bold; color: #e74c3c;" id="live-total">${this.visitorData.totalVisitors.toLocaleString()}</div>
+                        <div style="font-size: 8px; color: #666;">Total</div>
                     </div>
                     <div style="text-align: center;">
-                        <div style="font-size: 18px; font-weight: bold; color: #3498db;" id="live-countries">${this.visitorData.totalCountries}</div>
-                        <div style="font-size: 10px; color: #666;">Countries</div>
+                        <div style="font-size: 12px; font-weight: bold; color: #3498db;" id="live-countries">${this.visitorData.totalCountries}</div>
+                        <div style="font-size: 8px; color: #666;">Countries</div>
                     </div>
                     <div style="text-align: center;">
-                        <div style="font-size: 18px; font-weight: bold; color: #f39c12;" id="live-today">${this.visitorData.todayVisitors}</div>
-                        <div style="font-size: 10px; color: #666;">Today</div>
+                        <div style="font-size: 12px; font-weight: bold; color: #f39c12;" id="live-today">${this.visitorData.todayVisitors}</div>
+                        <div style="font-size: 8px; color: #666;">Today</div>
                     </div>
                     <div style="text-align: center;">
-                        <div style="font-size: 18px; font-weight: bold; color: #2ecc71;" id="live-month">${this.visitorData.monthVisitors}</div>
-                        <div style="font-size: 10px; color: #666;">Month</div>
+                        <div style="font-size: 12px; font-weight: bold; color: #2ecc71;" id="live-month">${this.visitorData.monthVisitors}</div>
+                        <div style="font-size: 8px; color: #666;">Month</div>
                     </div>
                 </div>
             `;
