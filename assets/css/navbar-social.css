@@ -1,0 +1,75 @@
+/* Navbar Social Icons Styling */
+
+/* Increase size and spacing of social icons in navbar */
+.navbar .social a {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 40px !important;
+    height: 40px !important;
+    margin-right: 1rem !important;
+    border-radius: 50% !important;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    color: white !important;
+    text-decoration: none !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;
+    font-size: 1.1rem !important;
+}
+
+.navbar .social a:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%) !important;
+    color: white !important;
+}
+
+.navbar .social a i {
+    font-size: 1.2rem !important;
+}
+
+/* Specific icon styling for different platforms */
+.navbar .social a[title="Google Scholar"] {
+    background: linear-gradient(135deg, #4285f4 0%, #34a853 100%) !important;
+}
+
+.navbar .social a[title="GitHub"] {
+    background: linear-gradient(135deg, #333 0%, #666 100%) !important;
+}
+
+.navbar .social a[title="LinkedIn"] {
+    background: linear-gradient(135deg, #0077b5 0%, #00a0dc 100%) !important;
+}
+
+.navbar .social a[title="Google Scholar"]:hover,
+.navbar .social a[title="GitHub"]:hover,
+.navbar .social a[title="LinkedIn"]:hover {
+    background: linear-gradient(135deg, #34a853 0%, #4285f4 100%) !important;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .navbar .social a {
+        width: 35px !important;
+        height: 35px !important;
+        margin-right: 0.75rem !important;
+        font-size: 1rem !important;
+    }
+    
+    .navbar .social a i {
+        font-size: 1.1rem !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar .social a {
+        width: 32px !important;
+        height: 32px !important;
+        margin-right: 0.5rem !important;
+        font-size: 0.9rem !important;
+    }
+    
+    .navbar .social a i {
+        font-size: 1rem !important;
+    }
+}
