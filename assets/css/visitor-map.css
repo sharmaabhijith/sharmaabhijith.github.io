@@ -4,9 +4,11 @@
     overflow: hidden;
     border-radius: 15px;
     box-shadow: 0 20px 40px rgba(0,0,0,0.3);
-    margin: 2rem 0;
+    margin: 2rem auto;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     transition: all 0.3s ease;
+    max-width: 800px;
+    width: 80%;
 }
 
 .visitor-map-container:hover {
@@ -14,24 +16,7 @@
     box-shadow: 0 25px 50px rgba(0,0,0,0.4);
 }
 
-.visitor-map-header {
-    text-align: center;
-    padding: 2rem 0 1rem 0;
-    color: white;
-}
-
-.visitor-map-header h2 {
-    margin: 0;
-    font-size: 2.5rem;
-    font-weight: 700;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-}
-
-.visitor-map-header p {
-    margin: 0.5rem 0 0 0;
-    font-size: 1.1rem;
-    opacity: 0.9;
-}
+/* Header removed - no longer needed */
 
 #visitor-map {
     height: 300px;
@@ -254,10 +239,6 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .visitor-map-header h2 {
-        font-size: 2rem;
-    }
-    
     .visitor-stats {
         gap: 1rem;
     }
@@ -281,10 +262,6 @@
 }
 
 @media (max-width: 480px) {
-    .visitor-map-header h2 {
-        font-size: 1.5rem;
-    }
-    
     .visitor-stats {
         flex-direction: column;
         gap: 0.5rem;
