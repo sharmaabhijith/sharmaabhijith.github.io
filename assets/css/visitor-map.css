@@ -8,7 +8,7 @@
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     transition: all 0.3s ease;
     max-width: 800px;
-    width: 80%;
+    width: 70%;
 }
 
 .visitor-map-container:hover {
@@ -239,6 +239,11 @@
 
 /* Responsive Design */
 @media (max-width: 768px) {
+    .visitor-map-container {
+        width: 90%;
+        max-width: 600px;
+    }
+    
     .visitor-stats {
         gap: 1rem;
     }
@@ -262,6 +267,11 @@
 }
 
 @media (max-width: 480px) {
+    .visitor-map-container {
+        width: 95%;
+        max-width: 400px;
+    }
+    
     .visitor-stats {
         flex-direction: column;
         gap: 0.5rem;

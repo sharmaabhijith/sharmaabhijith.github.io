@@ -95,7 +95,7 @@ class VisitorWorldMap {
         // Create 3D-style map with custom styling
         this.map = L.map(this.containerId, {
             center: [20, 0],
-            zoom: 1.,
+            zoom: 1.3,
             zoomControl: true,
             scrollWheelZoom: true,
             dragging: true,
