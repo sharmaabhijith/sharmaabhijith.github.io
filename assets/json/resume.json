@@ -6,7 +6,6 @@
     "email": "abhijith.sharma.ubc@gmail.com",
     "phone": "",
     "url": "https://sharmaabhijith.github.io/",
-    "summary": "Machine Learning Research Associate II at MBZUAI, specializing in GFlowNets, adversarial machine learning, and autonomous vehicle safety. PhD candidate focusing on decision making under uncertainty using generative flow networks.",
     "location": {
       "address": "Abu Dhabi",
       "postalCode": "",
@@ -262,21 +261,6 @@
     {
       "language": "Marathi",
       "fluency": "Native"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research Interests",
-      "keywords": [
-        "Generative Flow Networks (GFlowNets)",
-        "Adversarial Machine Learning",
-        "Computer Vision Security",
-        "Probabilistic Generative Modeling",
-        "Autonomous Vehicle Safety",
-        "Cybersecurity in AI Systems",
-        "Multi-Agent Systems",
-        "Decision Making Under Uncertainty"
-      ]
     }
   ],
   "projects": [
