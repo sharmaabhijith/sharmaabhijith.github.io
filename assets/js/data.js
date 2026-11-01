@@ -114,6 +114,7 @@ window.SITE_DATA = {
       venueLong: "IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 3833–3842",
       year: 2024,
       type: "conference",
+      selected: true,
       tldr: "Image resurfacing with total variation: a model-agnostic pre-processing defense that neutralises single and multiple adversarial patches in one pass.",
       links: { arxiv: "https://arxiv.org/abs/2311.01563", code: "https://github.com/sharmaabhijith/TVR" },
       bibtex: `@inproceedings{sharma2024assist,
@@ -262,6 +263,10 @@ window.SITE_DATA = {
     { date: "2025-03", html: "The SNN privacy paper is a spotlight at the ICLR 2025 ICBINB workshop. Code on <a href=\"https://github.com/sharmaabhijith/MIA_SNN\" target=\"_blank\" rel=\"noopener\">GitHub</a>." },
     { date: "2024-12", html: "Moved to Abu Dhabi to join MBZUAI as a Machine Learning Research Associate II." },
     { date: "2024-11", html: "<a href=\"https://ieeexplore.ieee.org/abstract/document/10646575\" target=\"_blank\" rel=\"noopener\">AVATAR</a> accepted at IEEE Transactions on Intelligent Vehicles. <a href=\"https://sharmaabhijith.github.io/avatar_page/\" target=\"_blank\" rel=\"noopener\">Project page</a>." },
-    { date: "2023-09", html: "Graduated from UBC. Joined the University of Waterloo AI Institute as a research associate, working with AVL and Transport Canada." }
+    { date: "2024-02", html: "<a href=\"https://ojs.aaai.org/index.php/AAAI/article/view/30468\" target=\"_blank\" rel=\"noopener\">SNAP</a>, adversarial patches for histopathology, presented as a student abstract at AAAI 2024 in Vancouver." },
+    { date: "2024-01", html: "<a href=\"https://arxiv.org/abs/2311.01563\" target=\"_blank\" rel=\"noopener\">Image resurfacing</a> as a patch defense presented at WACV 2024 in Waikoloa." },
+    { date: "2023-09", html: "Graduated from UBC. Joined the University of Waterloo AI Institute as a research associate, working with AVL and Transport Canada." },
+    { date: "2023-06", html: "<a href=\"https://arxiv.org/abs/2307.14917\" target=\"_blank\" rel=\"noopener\">NSA</a>, naturalistic support artifacts, presented at IJCNN 2023." },
+    { date: "2023-04", html: "<a href=\"https://doi.org/10.1145/3579988.3585054\" target=\"_blank\" rel=\"noopener\">Multi-patch attacks</a> on CNNs presented at the ACM SaT-CPS workshop." }
   ]
 };

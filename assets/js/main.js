@@ -58,7 +58,7 @@
   $$('[data-pen-pick]').forEach(function (b) {
     b.addEventListener('click', function () { setPen(b.getAttribute('data-pen-pick'), true); });
   });
-  setPen(root.getAttribute('data-pen') || 'red', false);
+  setPen(root.getAttribute('data-pen') || 'green', false);
 
   /* ---------- Typewriter ---------- */
   var typeEl = $('[data-typewriter]');
