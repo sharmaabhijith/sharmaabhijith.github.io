@@ -119,15 +119,50 @@
     setInterval(updateClock, 30000);
   }
 
-  /* ---------- Entrance animation ---------- */
-  if (!reduceMotion && Element.prototype.animate) {
-    $$('.bento > .card').forEach(function (card, i) {
-      card.animate(
-        [{ opacity: 0, transform: 'translateY(10px)' }, { opacity: 1, transform: 'translateY(0)' }],
-        { duration: 460, delay: 60 + i * 45, easing: 'cubic-bezier(.2,.7,.2,1)', fill: 'backwards' }
-      );
+  /* ---------- Avatar: idle sway, cursor tilt, spin on load and on click ---------- */
+  var av3d = $('#avatar3d'), avWrap = $('#avatarWrap');
+  if (av3d && avWrap && !reduceMotion && window.requestAnimationFrame) {
+    var introCard = av3d.closest('.card') || avWrap;
+    var tx = 0, ty = 0, cx = 0, cy = 0, spinStart = -1, spinDir = 1, running = true;
+    var t0 = performance.now();
+    introCard.addEventListener('pointermove', function (e) {
+      var r = avWrap.getBoundingClientRect();
+      tx = Math.max(-1, Math.min(1, (e.clientX - (r.left + r.width / 2)) / (r.width * 0.9)));
+      ty = Math.max(-1, Math.min(1, (e.clientY - (r.top + r.height / 2)) / (r.height * 0.9)));
     });
+    introCard.addEventListener('pointerleave', function () { tx = 0; ty = 0; });
+    var spin = function (dir) { if (spinStart >= 0) return; spinDir = dir || 1; spinStart = performance.now(); };
+    avWrap.addEventListener('click', function () { spin(1); });
+    var frame = function (now) {
+      if (!running) return;
+      var t = (now - t0) / 1000;
+      cx += (tx - cx) * 0.08; cy += (ty - cy) * 0.08;
+      var rotY = Math.sin(t * 0.8) * 9 + cx * 30;
+      var rotX = Math.sin(t * 0.6 + 1.3) * 3 - cy * 14;
+      var extra = 0;
+      if (spinStart >= 0) {
+        var p = Math.min(1, (now - spinStart) / 1400);
+        extra = (1 - Math.pow(1 - p, 3)) * 360 * spinDir;
+        if (p >= 1) { spinStart = -1; extra = 0; }
+      }
+      av3d.style.transform = 'rotateX(' + rotX.toFixed(2) + 'deg) rotateY(' + (rotY + extra).toFixed(2) + 'deg)';
+      requestAnimationFrame(frame);
+    };
+    document.addEventListener('visibilitychange', function () {
+      if (document.hidden) { running = false; } else if (!running) { running = true; requestAnimationFrame(frame); }
+    });
+    requestAnimationFrame(frame);
+    setTimeout(function () { spin(1); }, 900);
   }
+
+  /* ---------- Cursor spotlight on cards ---------- */
+  document.addEventListener('pointermove', function (e) {
+    var card = e.target && e.target.closest ? e.target.closest('.card') : null;
+    if (!card) return;
+    var r = card.getBoundingClientRect();
+    card.style.setProperty('--mx', ((e.clientX - r.left) / r.width * 100).toFixed(1) + '%');
+    card.style.setProperty('--my', ((e.clientY - r.top) / r.height * 100).toFixed(1) + '%');
+  }, { passive: true });
 
   /* ---------- Copy to clipboard ---------- */
   function copyText(text, onDone) {
@@ -278,6 +313,22 @@
         setTimeout(function () { target.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'center' }); }, 50);
       }
     }
+  }
+
+  /* ---------- Reveal cards as they enter the viewport ---------- */
+  var cards = $$('.card');
+  if (cards.length && !reduceMotion && Element.prototype.animate && 'IntersectionObserver' in window) {
+    cards.forEach(function (c) { c.classList.add('is-hidden'); });
+    var io = new IntersectionObserver(function (entries) {
+      entries.filter(function (en) { return en.isIntersecting; }).forEach(function (en, i) {
+        var c = en.target; io.unobserve(c); c.classList.remove('is-hidden');
+        c.animate([{ opacity: 0, transform: 'translateY(14px)' }, { opacity: 1, transform: 'translateY(0)' }],
+          { duration: 520, delay: i * 55, easing: 'cubic-bezier(.2,.7,.2,1)', fill: 'backwards' });
+      });
+    }, { threshold: 0.08 });
+    cards.forEach(function (c) { io.observe(c); });
+    /* Safety net: never leave a card invisible (e.g. observer never fires). */
+    setTimeout(function () { cards.forEach(function (c) { c.classList.remove('is-hidden'); }); }, 2500);
   }
 
   /* ---------- Footer year ---------- */
